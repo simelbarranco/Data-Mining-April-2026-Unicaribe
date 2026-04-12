@@ -36,6 +36,14 @@ Se utilizará un dataset simulado (mock data) que representa información de est
 - Trabajo (Sí/No)  
 - Acceso a internet (Sí/No)  
 
+### 🎯 Variable objetivo:
+
+- Nivel de rendimiento:
+  - Alto  
+  - Medio  
+  - Bajo  
+  - Riesgo de retiro  
+
 ---
 
 ## ⚙️ Tecnologías y Herramientas
@@ -46,8 +54,7 @@ Se utilizará un dataset simulado (mock data) que representa información de est
   - pandas  
   - matplotlib  
   - seaborn  
-  - sklearn  
-  - mlxtend  
+  - sklearn
 
 ---
 
@@ -62,13 +69,45 @@ El proyecto se desarrolla en las siguientes etapas:
 
 ### 2. Limpieza de datos
 - Manejo de valores nulos  
-- Corrección de inconsistencias
+- Corrección de inconsistencias  
+
+### 3. Análisis exploratorio
+- Estadísticas descriptivas  
+- Visualización de datos  
+- Identificación de patrones  
+
+### 4. Aplicación de técnicas de minería de datos
+
+#### 🌳 Árbol de Decisión
+- Clasificación del rendimiento académico  
+- Identificación de variables más influyentes  
+
+#### 🧺 Reglas de Asociación
+- Descubrimiento de relaciones entre variables  
+- Generación de patrones tipo IF-THEN  
 
 ---
 
 ## 📊 Resultados Esperados
 
-- TBD
+- Identificación de factores clave en el rendimiento académico  
+- Detección de estudiantes en riesgo  
+
+---
+
+## 💡 Posibles Insights
+
+- Baja asistencia está relacionada con bajo rendimiento  
+- Pocas horas de estudio aumentan el riesgo académico  
+- Estudiantes que trabajan pueden presentar mayor dificultad
+
+---
+
+## 🧠 Conclusiones
+
+El proyecto demuestra cómo las técnicas de minería de datos permiten analizar grandes volúmenes de información y generar conocimiento útil.
+
+Estos resultados pueden ser utilizados para implementar estrategias que mejoren el desempeño académico y reduzcan el riesgo de abandono.
 
 ---
 
@@ -83,7 +122,7 @@ El proyecto se desarrolla en las siguientes etapas:
 
 ## 📎 Entregables
 
-- Notebook en Google Colab  
+- Python Notebook
 - Dataset utilizado  
 - Informe o presentación  
 
