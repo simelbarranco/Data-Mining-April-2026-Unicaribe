@@ -1,0 +1,1001 @@
+Edad,Género,Carrera,Materias Inscritas,Horas de Estudio por Semana,Asistencia (%),Uso de Plataforma Virtual,Promedio (GPA),Trabajo,Acceso a Internet
+23,Masculino,Medicina,4,11,72.1,Microsoft Teams,2.57,No,Sí
+31,Femenino,Comunicación Social,6,28,75.6,Moodle,3.07,No,No
+27,Masculino,Arquitectura,6,14,72.1,Google Classroom,2.13,No,Sí
+24,Masculino,Turismo,5,17,57.6,Zoom,2.07,Sí,Sí
+23,Masculino,Contaduría Pública,5,22,88.5,Blackboard,3.05,No,Sí
+35,Femenino,Ingeniería Industrial,4,16,74.3,Blackboard,2.4,Sí,Sí
+27,Femenino,Psicología,6,25,78.2,Blackboard,2.58,Sí,Sí
+27,Masculino,Administración de Empresas,4,15,69.3,Microsoft Teams,1.8,Sí,No
+20,Masculino,Arquitectura,7,15,85.1,Zoom,2.33,No,Sí
+24,Masculino,Medicina,4,25,81,Microsoft Teams,3.03,No,Sí
+19,Femenino,Contaduría Pública,8,12,96.2,Google Classroom,2.38,Sí,Sí
+18,Masculino,Medicina,4,19,85.2,Moodle,2.22,No,Sí
+28,Masculino,Comunicación Social,8,6,75,Blackboard,1.5,Sí,No
+22,Femenino,Comunicación Social,8,30,66.9,Zoom,2.64,Sí,Sí
+18,Masculino,Turismo,8,26,91,Blackboard,2.67,No,Sí
+17,Femenino,Enfermería,7,37,73.8,Microsoft Teams,2.99,No,Sí
+28,Masculino,Psicología,4,27,75.4,Canvas,3.14,No,Sí
+28,Masculino,Arquitectura,4,10,75.4,Google Classroom,1.94,Sí,Sí
+33,Masculino,Mercadotecnia,7,22,72,Moodle,2.19,Sí,Sí
+26,Femenino,Mercadotecnia,6,11,75.7,Google Classroom,2.1,No,Sí
+32,Femenino,Arquitectura,5,29,100,Canvas,3.87,Sí,Sí
+31,Femenino,Administración de Empresas,4,10,62.3,Moodle,1.65,Sí,Sí
+31,Masculino,Turismo,5,9,65.8,Canvas,1.5,No,No
+35,Femenino,Psicología,7,6,98.8,Google Classroom,2.44,No,No
+28,Masculino,Medicina,6,14,72.4,Microsoft Teams,2.17,No,Sí
+19,Masculino,Administración de Empresas,6,13,71.2,Google Classroom,2.03,No,Sí
+21,Femenino,Ingeniería en Sistemas,6,9,93.5,Google Classroom,2.2,No,Sí
+35,Masculino,Arquitectura,7,31,56.7,Google Classroom,2.27,Sí,Sí
+23,Masculino,Medicina,8,21,90.3,Zoom,3.19,Sí,Sí
+25,Masculino,Mercadotecnia,8,20,78.7,Canvas,1.91,No,Sí
+23,Masculino,Derecho,5,29,85,Canvas,2.9,Sí,Sí
+34,Masculino,Ingeniería Industrial,8,19,84.7,Blackboard,2.44,Sí,Sí
+20,Femenino,Enfermería,8,12,68.6,Canvas,2.16,No,Sí
+30,Masculino,Mercadotecnia,6,6,93.8,Blackboard,2.51,Sí,Sí
+34,Femenino,Psicología,6,12,69.7,Zoom,1.86,No,Sí
+25,Femenino,Comunicación Social,5,28,84.1,Microsoft Teams,2.98,No,Sí
+18,Masculino,Ingeniería Industrial,4,9,96.6,Blackboard,2.42,No,Sí
+31,Masculino,Ingeniería Industrial,5,20,98.7,Google Classroom,3.18,Sí,Sí
+23,Masculino,Derecho,5,25,74,Microsoft Teams,2.9,No,Sí
+28,Femenino,Enfermería,7,19,84.9,Zoom,2.38,Sí,Sí
+24,Masculino,Enfermería,7,20,72.6,Canvas,2.47,No,Sí
+31,Femenino,Ingeniería en Sistemas,5,22,100,Blackboard,3.09,Sí,Sí
+19,Masculino,Ingeniería en Sistemas,5,20,89.7,Google Classroom,2.65,No,Sí
+30,Femenino,Contaduría Pública,5,29,79.3,Moodle,2.99,Sí,Sí
+33,Masculino,Mercadotecnia,8,10,82.7,Moodle,2.1,No,No
+20,Masculino,Mercadotecnia,7,19,84.1,Microsoft Teams,2.57,No,Sí
+34,Femenino,Mercadotecnia,5,5,84.6,Canvas,1.51,No,Sí
+24,Femenino,Contaduría Pública,6,3,74.4,Moodle,1.5,Sí,No
+20,Masculino,Turismo,6,17,72.1,Microsoft Teams,2.44,No,Sí
+18,Femenino,Administración de Empresas,8,21,75.7,Zoom,2.08,No,Sí
+22,Femenino,Enfermería,8,29,60.9,Microsoft Teams,2.65,Sí,Sí
+26,Femenino,Derecho,4,34,88.8,Microsoft Teams,3.26,Sí,Sí
+20,Femenino,Psicología,4,27,66,Microsoft Teams,2.83,No,Sí
+34,Masculino,Enfermería,4,23,62.1,Google Classroom,2.46,Sí,Sí
+28,Masculino,Ingeniería en Sistemas,8,19,77.8,Microsoft Teams,2.26,Sí,Sí
+18,Masculino,Ingeniería Industrial,8,7,76,Blackboard,1.76,No,Sí
+26,Femenino,Medicina,8,16,81.7,Microsoft Teams,1.75,Sí,Sí
+20,Femenino,Comunicación Social,6,27,69.5,Google Classroom,2.55,Sí,Sí
+30,Masculino,Contaduría Pública,8,24,72.1,Google Classroom,2.13,Sí,Sí
+32,Masculino,Arquitectura,6,8,88.4,Zoom,2.06,No,Sí
+31,Femenino,Medicina,4,22,87.5,Canvas,2.54,Sí,Sí
+24,No binario,Psicología,4,21,86.8,Moodle,2.41,No,Sí
+30,Femenino,Mercadotecnia,4,20,78.5,Moodle,2.82,Sí,Sí
+24,Masculino,Ingeniería en Sistemas,5,17,80.5,Microsoft Teams,1.98,No,Sí
+32,Masculino,Ingeniería en Sistemas,5,22,81.5,Zoom,2.32,Sí,Sí
+29,Masculino,Ingeniería en Sistemas,7,22,68.2,Microsoft Teams,2.13,No,Sí
+34,Femenino,Mercadotecnia,7,13,100,Moodle,2.43,Sí,Sí
+31,Masculino,Arquitectura,7,21,98,Google Classroom,2.63,No,Sí
+29,Femenino,Contaduría Pública,5,16,89.9,Canvas,2.4,Sí,Sí
+25,Masculino,Medicina,5,7,71.6,Zoom,1.83,No,Sí
+31,Femenino,Mercadotecnia,7,14,86.1,Google Classroom,2.55,Sí,No
+29,Femenino,Psicología,7,7,92.7,Canvas,2.35,Sí,Sí
+17,Femenino,Contaduría Pública,8,24,59.7,Zoom,1.69,Sí,Sí
+23,Masculino,Psicología,7,20,100,Zoom,3,No,Sí
+25,Masculino,Contaduría Pública,8,15,51.9,Moodle,1.84,No,Sí
+17,Masculino,Arquitectura,6,27,88.6,Google Classroom,2.77,No,Sí
+28,Femenino,Comunicación Social,5,18,99.8,Zoom,3.3,Sí,No
+24,Femenino,Psicología,7,7,76.3,Blackboard,2.16,Sí,Sí
+27,Femenino,Mercadotecnia,5,14,75.7,Zoom,2.08,No,Sí
+35,Femenino,Contaduría Pública,5,29,88,Canvas,2.87,Sí,Sí
+33,Femenino,Ingeniería en Sistemas,5,13,100,Moodle,3.07,No,Sí
+24,Masculino,Turismo,6,19,73.8,Microsoft Teams,2.31,No,Sí
+19,Femenino,Enfermería,4,23,66.3,Moodle,2.37,No,Sí
+19,Masculino,Ingeniería en Sistemas,7,22,71.6,Microsoft Teams,2.43,No,Sí
+17,Masculino,Administración de Empresas,4,35,54.7,Google Classroom,3.34,No,Sí
+21,Femenino,Comunicación Social,4,9,91.5,Google Classroom,2.17,Sí,Sí
+26,Masculino,Comunicación Social,4,10,70.3,Zoom,1.84,No,Sí
+23,Masculino,Ingeniería en Sistemas,5,9,74.9,Blackboard,1.65,Sí,Sí
+25,Femenino,Medicina,8,15,91.6,Google Classroom,2.38,Sí,Sí
+23,Masculino,Arquitectura,5,25,72.3,Zoom,2.25,Sí,Sí
+25,Femenino,Psicología,5,10,89.4,Moodle,1.99,Sí,No
+24,Masculino,Mercadotecnia,4,25,62.4,Google Classroom,1.82,No,Sí
+28,Masculino,Comunicación Social,5,18,92.4,Moodle,2.91,Sí,Sí
+18,Masculino,Ingeniería en Sistemas,4,10,83.1,Moodle,2.15,No,No
+17,Masculino,Ingeniería en Sistemas,8,5,76.7,Blackboard,1.83,No,No
+32,Femenino,Arquitectura,7,7,80,Google Classroom,1.9,No,Sí
+21,Masculino,Arquitectura,4,13,58.7,Moodle,1.77,Sí,Sí
+19,Femenino,Derecho,8,16,79.6,Blackboard,2.79,No,Sí
+28,Femenino,Derecho,7,27,75.9,Blackboard,2.49,No,Sí
+24,Femenino,Medicina,6,23,59.1,Google Classroom,2.29,Sí,Sí
+19,Femenino,Turismo,4,12,67.9,Blackboard,1.97,No,Sí
+17,Femenino,Turismo,4,20,76.1,Google Classroom,2.75,No,Sí
+19,Masculino,Medicina,6,29,68.9,Google Classroom,2.8,Sí,Sí
+21,Masculino,Administración de Empresas,6,31,41.8,Microsoft Teams,2.36,No,No
+31,Masculino,Medicina,4,15,94.1,Moodle,2.17,Sí,Sí
+30,Femenino,Contaduría Pública,6,24,75.9,Canvas,2.34,Sí,Sí
+19,Masculino,Arquitectura,5,27,43.9,Google Classroom,1.73,No,Sí
+17,Femenino,Turismo,7,7,100,Moodle,1.57,No,No
+21,Femenino,Mercadotecnia,7,14,96.6,Blackboard,2.67,No,Sí
+30,Masculino,Contaduría Pública,7,33,72.8,Zoom,2.84,Sí,Sí
+23,Femenino,Psicología,5,15,65.4,Google Classroom,2.09,Sí,Sí
+25,Masculino,Ingeniería en Sistemas,6,3,84,Blackboard,1.82,Sí,No
+31,Masculino,Medicina,8,17,81,Blackboard,2.45,Sí,Sí
+31,Femenino,Ingeniería en Sistemas,6,25,86.1,Blackboard,3.23,No,Sí
+26,Femenino,Comunicación Social,4,18,65.4,Blackboard,2.11,Sí,Sí
+29,Femenino,Administración de Empresas,7,23,94.5,Blackboard,3.11,No,Sí
+35,Masculino,Comunicación Social,6,24,70.9,Google Classroom,2.39,Sí,Sí
+23,Masculino,Administración de Empresas,8,15,88.2,Canvas,2.68,Sí,No
+33,Femenino,Derecho,4,14,66,Microsoft Teams,1.57,Sí,No
+20,Femenino,Ingeniería en Sistemas,5,19,100,Blackboard,2.29,No,Sí
+21,Femenino,Administración de Empresas,5,19,88.4,Blackboard,3.24,No,Sí
+23,Masculino,Ingeniería Industrial,8,18,100,Microsoft Teams,3.35,No,Sí
+29,Femenino,Turismo,4,18,90.4,Google Classroom,2.02,No,Sí
+31,Masculino,Ingeniería Industrial,7,12,69.6,Moodle,1.91,No,Sí
+27,Masculino,Ingeniería Industrial,6,23,90.4,Zoom,2.88,No,Sí
+20,Femenino,Enfermería,4,22,91.5,Zoom,3.02,No,Sí
+29,Masculino,Turismo,5,8,83.6,Moodle,2.55,Sí,Sí
+23,Femenino,Contaduría Pública,8,15,87.5,Google Classroom,2.1,Sí,Sí
+35,Masculino,Administración de Empresas,8,18,89.4,Zoom,2.29,No,Sí
+18,Masculino,Administración de Empresas,6,14,63.1,Microsoft Teams,1.88,No,Sí
+26,Femenino,Contaduría Pública,8,22,62,Moodle,1.93,No,Sí
+29,Femenino,Ingeniería en Sistemas,8,17,66.1,Canvas,1.5,Sí,Sí
+22,Femenino,Ingeniería en Sistemas,4,19,79.9,Google Classroom,2.37,No,No
+28,Femenino,Ingeniería Industrial,7,15,74.7,Moodle,2.42,No,Sí
+28,Femenino,Contaduría Pública,6,4,63.4,Zoom,1.5,Sí,No
+27,Femenino,Turismo,4,3,89.6,Google Classroom,2.11,Sí,No
+23,Femenino,Ingeniería Industrial,7,22,82.2,Microsoft Teams,2.77,No,Sí
+17,Masculino,Comunicación Social,4,19,80.5,Google Classroom,2.15,No,Sí
+17,Femenino,Enfermería,4,21,74.1,Google Classroom,2.44,No,Sí
+29,Masculino,Mercadotecnia,8,18,72.3,Microsoft Teams,1.79,No,No
+25,No binario,Psicología,7,19,65.4,Blackboard,2,Sí,No
+19,Femenino,Enfermería,6,24,92,Microsoft Teams,2.92,No,Sí
+23,Masculino,Ingeniería en Sistemas,6,21,67.4,Google Classroom,2.28,No,Sí
+22,Femenino,Mercadotecnia,7,25,81.1,Microsoft Teams,2.35,Sí,Sí
+24,Femenino,Derecho,8,19,100,Blackboard,2.52,Sí,Sí
+25,Masculino,Medicina,5,15,73,Moodle,2.21,Sí,Sí
+21,Femenino,Ingeniería Industrial,4,19,92.4,Microsoft Teams,2.94,No,Sí
+17,Femenino,Administración de Empresas,8,12,86.5,Microsoft Teams,2.2,Sí,Sí
+35,Masculino,Contaduría Pública,7,15,82.7,Google Classroom,2.24,No,Sí
+26,Femenino,Contaduría Pública,4,19,84.5,Moodle,2.81,Sí,Sí
+28,Masculino,Administración de Empresas,6,19,76.6,Canvas,2.14,Sí,Sí
+31,Femenino,Ingeniería Industrial,5,17,78.5,Canvas,2.84,Sí,No
+25,No binario,Medicina,6,8,69.8,Zoom,1.5,Sí,Sí
+33,Femenino,Psicología,7,22,78.6,Microsoft Teams,2.86,Sí,Sí
+33,Femenino,Medicina,4,23,69.2,Microsoft Teams,2.57,Sí,Sí
+28,Femenino,Mercadotecnia,7,29,93.1,Moodle,3.87,Sí,Sí
+23,Femenino,Medicina,4,21,52.5,Blackboard,1.65,Sí,Sí
+18,Masculino,Mercadotecnia,8,18,85.2,Canvas,1.8,Sí,Sí
+19,Femenino,Medicina,5,10,83,Zoom,2.48,No,Sí
+33,Masculino,Psicología,8,28,81.7,Moodle,2.44,Sí,Sí
+21,Femenino,Psicología,8,19,93.4,Microsoft Teams,2.9,Sí,Sí
+33,Masculino,Ingeniería en Sistemas,7,19,73.7,Canvas,2.67,No,Sí
+33,Masculino,Administración de Empresas,5,16,81.8,Zoom,2.46,Sí,Sí
+33,Masculino,Psicología,4,15,52.3,Google Classroom,1.78,No,Sí
+18,Femenino,Mercadotecnia,4,22,71.8,Canvas,2.53,No,Sí
+18,Masculino,Psicología,6,10,90.8,Zoom,2.51,Sí,Sí
+21,Femenino,Ingeniería en Sistemas,4,29,57.9,Moodle,2.62,No,Sí
+17,Masculino,Contaduría Pública,7,27,80.4,Google Classroom,2.44,No,Sí
+17,Masculino,Mercadotecnia,8,15,67.8,Zoom,2.57,No,Sí
+35,Femenino,Ingeniería en Sistemas,8,11,76.3,Zoom,2.03,Sí,Sí
+18,Femenino,Comunicación Social,8,3,68.7,Microsoft Teams,1.66,No,Sí
+28,Masculino,Comunicación Social,5,9,59.3,Blackboard,1.8,No,Sí
+22,Femenino,Derecho,4,23,83.8,Canvas,3.05,Sí,No
+20,Femenino,Medicina,7,20,77.3,Microsoft Teams,2.75,No,No
+27,Femenino,Administración de Empresas,5,21,87.2,Google Classroom,2.72,Sí,Sí
+33,Masculino,Arquitectura,6,5,89.9,Blackboard,2.04,Sí,No
+22,Masculino,Enfermería,7,15,96.4,Zoom,2.72,No,Sí
+21,Femenino,Ingeniería en Sistemas,7,27,80,Microsoft Teams,3.13,No,Sí
+18,Masculino,Contaduría Pública,7,17,97,Blackboard,2.36,Sí,Sí
+22,Femenino,Enfermería,8,9,63.4,Canvas,1.86,Sí,No
+27,Femenino,Contaduría Pública,7,17,91.6,Google Classroom,2.32,No,Sí
+32,Femenino,Turismo,4,12,84.9,Moodle,2.79,No,Sí
+32,Femenino,Turismo,7,20,81.5,Microsoft Teams,2.63,Sí,Sí
+17,No binario,Turismo,8,18,84.7,Google Classroom,2.37,No,Sí
+25,Masculino,Enfermería,7,21,63.6,Moodle,2.33,Sí,Sí
+22,Femenino,Ingeniería en Sistemas,6,9,60,Microsoft Teams,1.6,Sí,Sí
+32,Masculino,Arquitectura,6,14,100,Google Classroom,2.57,Sí,Sí
+19,Femenino,Enfermería,8,25,75.5,Google Classroom,2.08,No,Sí
+20,Femenino,Ingeniería en Sistemas,4,8,75.3,Blackboard,1.55,Sí,Sí
+35,Femenino,Psicología,4,10,61.5,Microsoft Teams,1.63,No,Sí
+19,No binario,Arquitectura,5,19,55.8,Google Classroom,1.5,No,Sí
+35,Femenino,Turismo,8,20,76.7,Zoom,2.25,Sí,Sí
+23,Masculino,Mercadotecnia,7,14,72.9,Microsoft Teams,1.93,Sí,No
+25,Masculino,Contaduría Pública,8,16,78,Google Classroom,2.04,Sí,Sí
+17,Femenino,Turismo,5,21,79.3,Blackboard,2.75,No,Sí
+24,Masculino,Comunicación Social,8,23,100,Moodle,2.76,No,Sí
+23,Masculino,Medicina,8,10,72.9,Moodle,1.93,Sí,Sí
+34,Masculino,Comunicación Social,5,20,100,Zoom,2.78,Sí,No
+24,Masculino,Turismo,4,28,100,Microsoft Teams,3.21,Sí,Sí
+17,Masculino,Arquitectura,7,17,89.3,Blackboard,3.02,No,Sí
+27,Masculino,Mercadotecnia,5,10,74.5,Google Classroom,1.99,Sí,Sí
+34,Masculino,Contaduría Pública,6,10,57.6,Google Classroom,1.71,Sí,Sí
+26,Masculino,Mercadotecnia,4,16,85.2,Moodle,2.19,Sí,Sí
+19,No binario,Enfermería,6,25,93.3,Blackboard,3.16,No,Sí
+23,Masculino,Contaduría Pública,4,17,100,Zoom,2.93,No,Sí
+32,Masculino,Turismo,7,19,63.8,Moodle,2.27,No,Sí
+32,Femenino,Enfermería,7,11,74.3,Moodle,1.61,Sí,Sí
+33,Masculino,Ingeniería en Sistemas,8,24,63.8,Zoom,2.17,Sí,Sí
+18,Femenino,Arquitectura,6,9,68.5,Microsoft Teams,2.2,Sí,Sí
+17,Femenino,Ingeniería Industrial,4,14,88,Google Classroom,2.18,No,Sí
+32,Masculino,Ingeniería en Sistemas,7,22,67.8,Microsoft Teams,2.8,Sí,Sí
+28,Masculino,Derecho,5,3,65.6,Blackboard,1.5,Sí,Sí
+21,Femenino,Mercadotecnia,7,19,90,Canvas,2.69,Sí,Sí
+21,Femenino,Ingeniería Industrial,5,10,84.8,Canvas,2.08,Sí,Sí
+25,Femenino,Enfermería,4,18,83.3,Canvas,2.21,Sí,Sí
+25,Femenino,Psicología,7,15,68.2,Zoom,1.78,Sí,Sí
+19,Masculino,Ingeniería en Sistemas,7,32,97.4,Moodle,3.16,No,Sí
+35,No binario,Derecho,4,15,78.2,Microsoft Teams,2.28,Sí,Sí
+32,Masculino,Administración de Empresas,7,30,100,Google Classroom,3.6,Sí,Sí
+32,Femenino,Ingeniería Industrial,5,22,80.4,Canvas,2.61,Sí,Sí
+19,Femenino,Comunicación Social,7,12,43,Microsoft Teams,1.5,No,Sí
+17,Femenino,Contaduría Pública,6,20,42.3,Canvas,2.1,No,Sí
+27,Femenino,Derecho,8,15,87.4,Canvas,2.43,No,Sí
+33,Masculino,Arquitectura,5,19,97.5,Google Classroom,2.63,Sí,Sí
+24,Masculino,Ingeniería Industrial,6,13,66.2,Blackboard,1.6,No,No
+20,Masculino,Ingeniería en Sistemas,4,29,100,Blackboard,3.67,No,Sí
+22,Masculino,Arquitectura,5,24,100,Blackboard,2.97,Sí,Sí
+24,Femenino,Comunicación Social,8,18,81.2,Zoom,2.25,No,Sí
+19,Masculino,Psicología,8,30,86.1,Moodle,2.86,No,Sí
+32,Masculino,Mercadotecnia,4,18,91.4,Zoom,2.99,Sí,Sí
+19,Femenino,Mercadotecnia,4,25,100,Microsoft Teams,2.94,Sí,Sí
+34,Femenino,Turismo,5,18,88.2,Zoom,2.86,Sí,No
+30,Femenino,Arquitectura,7,20,80.8,Microsoft Teams,2.44,Sí,Sí
+34,No binario,Enfermería,4,17,88.1,Microsoft Teams,2.16,Sí,Sí
+18,Masculino,Psicología,7,18,86.1,Moodle,2.42,No,Sí
+19,Masculino,Mercadotecnia,6,19,91.9,Google Classroom,2.67,No,Sí
+32,Femenino,Psicología,8,13,54.4,Moodle,1.63,Sí,Sí
+25,Femenino,Derecho,7,15,82.7,Blackboard,2.28,No,Sí
+20,Masculino,Psicología,8,16,84.9,Blackboard,2.31,No,Sí
+17,Femenino,Medicina,7,19,76.9,Zoom,2.15,Sí,Sí
+20,Masculino,Comunicación Social,6,17,89.8,Microsoft Teams,2.55,No,Sí
+17,Masculino,Mercadotecnia,4,26,100,Canvas,3.32,No,Sí
+30,Femenino,Psicología,6,23,80.1,Canvas,2.19,Sí,Sí
+32,Femenino,Arquitectura,4,16,88.4,Microsoft Teams,2.87,No,No
+24,Femenino,Administración de Empresas,4,27,100,Moodle,2.09,No,Sí
+23,Masculino,Medicina,8,31,80.4,Google Classroom,3.01,No,Sí
+19,Femenino,Medicina,6,3,64.7,Moodle,1.57,No,Sí
+33,Masculino,Enfermería,7,24,87.2,Microsoft Teams,2.63,No,Sí
+17,Masculino,Psicología,6,13,45,Microsoft Teams,1.5,No,No
+32,Femenino,Turismo,8,23,43.5,Google Classroom,1.86,No,Sí
+28,Femenino,Enfermería,4,26,83,Zoom,2.87,Sí,Sí
+35,Femenino,Enfermería,8,11,42.8,Zoom,1.5,Sí,Sí
+30,Femenino,Administración de Empresas,5,5,58.3,Google Classroom,1.5,Sí,No
+22,Femenino,Derecho,5,23,72.3,Zoom,2.76,Sí,Sí
+22,Femenino,Psicología,7,18,67.2,Canvas,2.18,No,Sí
+29,Masculino,Ingeniería en Sistemas,8,6,75.8,Zoom,1.5,Sí,Sí
+35,Masculino,Mercadotecnia,7,35,94.7,Zoom,3.58,Sí,No
+24,Masculino,Enfermería,7,22,81.6,Zoom,2.33,No,Sí
+18,Masculino,Comunicación Social,5,22,65.4,Canvas,2.05,No,Sí
+17,Femenino,Contaduría Pública,7,27,98.3,Zoom,3.23,Sí,Sí
+31,Femenino,Comunicación Social,5,13,56.6,Blackboard,1.74,Sí,Sí
+17,Masculino,Administración de Empresas,4,18,81.3,Canvas,2.31,No,Sí
+21,Masculino,Administración de Empresas,8,8,54.9,Google Classroom,1.5,Sí,No
+32,Femenino,Arquitectura,7,13,81.8,Moodle,2.14,No,Sí
+35,Masculino,Derecho,5,20,73.2,Google Classroom,2.12,Sí,No
+20,Femenino,Turismo,6,6,94.2,Moodle,2.48,No,Sí
+19,Femenino,Mercadotecnia,7,13,88.8,Google Classroom,1.88,No,Sí
+33,Femenino,Ingeniería Industrial,4,11,69.2,Blackboard,1.8,Sí,Sí
+33,Femenino,Enfermería,4,18,66.3,Moodle,1.69,Sí,Sí
+28,Femenino,Comunicación Social,6,22,73.3,Moodle,2.72,Sí,Sí
+30,Masculino,Contaduría Pública,5,23,100,Microsoft Teams,2.95,Sí,Sí
+22,Femenino,Administración de Empresas,7,24,100,Moodle,2.75,No,Sí
+19,Femenino,Administración de Empresas,5,27,63.5,Moodle,2.68,Sí,Sí
+25,Masculino,Derecho,4,22,90,Microsoft Teams,2.09,Sí,No
+21,Femenino,Contaduría Pública,5,31,52,Zoom,2.5,No,Sí
+33,Femenino,Contaduría Pública,4,18,71.3,Zoom,2.57,Sí,Sí
+30,Femenino,Derecho,5,16,64.1,Microsoft Teams,2.05,Sí,Sí
+19,Femenino,Administración de Empresas,6,22,94,Canvas,2.71,No,Sí
+17,Femenino,Mercadotecnia,8,16,58.6,Moodle,1.51,No,Sí
+17,Femenino,Psicología,6,30,84.4,Moodle,3.35,Sí,No
+19,Femenino,Psicología,6,25,78,Microsoft Teams,2.95,No,Sí
+34,Femenino,Derecho,8,23,75.4,Microsoft Teams,2.34,Sí,Sí
+26,Femenino,Contaduría Pública,8,18,100,Canvas,2.61,Sí,Sí
+19,Femenino,Enfermería,7,15,100,Blackboard,3.02,No,Sí
+24,Femenino,Derecho,7,22,75.8,Zoom,2.65,Sí,Sí
+30,Masculino,Mercadotecnia,6,10,72.8,Google Classroom,1.5,No,Sí
+34,Femenino,Derecho,6,28,55.4,Blackboard,2.29,No,Sí
+31,Femenino,Medicina,4,16,77.9,Zoom,2.2,No,Sí
+18,Masculino,Comunicación Social,4,20,100,Moodle,2.96,No,Sí
+26,Femenino,Contaduría Pública,7,11,76.1,Blackboard,2.01,Sí,Sí
+18,Masculino,Turismo,7,23,88.9,Microsoft Teams,2.65,No,Sí
+33,Masculino,Arquitectura,4,14,57,Canvas,1.82,Sí,No
+24,Femenino,Arquitectura,4,22,71.5,Zoom,2.27,Sí,Sí
+17,Masculino,Contaduría Pública,5,23,84.9,Canvas,3.74,No,No
+25,Femenino,Turismo,5,13,79.6,Zoom,2.21,Sí,Sí
+27,Femenino,Ingeniería Industrial,4,10,90.4,Blackboard,2.25,Sí,Sí
+32,Femenino,Mercadotecnia,5,28,69,Moodle,3.18,No,Sí
+23,Masculino,Medicina,8,16,51.8,Google Classroom,1.5,Sí,Sí
+26,Masculino,Medicina,7,19,94.8,Canvas,2.71,Sí,Sí
+19,Femenino,Administración de Empresas,7,21,64,Canvas,1.93,Sí,Sí
+34,No binario,Comunicación Social,4,9,85.6,Google Classroom,2.3,Sí,Sí
+29,Femenino,Psicología,6,21,84.8,Canvas,2.48,Sí,Sí
+23,Masculino,Ingeniería en Sistemas,4,18,53,Canvas,2.03,Sí,Sí
+20,Femenino,Mercadotecnia,5,13,93.7,Zoom,2.6,No,Sí
+29,Femenino,Ingeniería en Sistemas,6,9,69.5,Zoom,2.02,No,Sí
+17,Femenino,Ingeniería en Sistemas,5,22,78.8,Google Classroom,2.71,No,No
+24,Masculino,Contaduría Pública,8,25,72.6,Moodle,2.5,No,Sí
+30,Femenino,Arquitectura,5,19,100,Blackboard,2.43,No,Sí
+32,Femenino,Arquitectura,8,7,98.2,Blackboard,2.58,Sí,Sí
+30,Femenino,Psicología,8,10,50.8,Canvas,1.88,Sí,Sí
+28,Masculino,Contaduría Pública,5,14,100,Moodle,2.34,Sí,Sí
+35,Femenino,Ingeniería en Sistemas,5,28,67.8,Google Classroom,2.82,Sí,Sí
+31,Femenino,Turismo,8,16,100,Google Classroom,2.36,No,Sí
+18,Masculino,Ingeniería Industrial,6,14,74.2,Zoom,2.17,No,Sí
+18,Femenino,Enfermería,8,6,72.9,Canvas,1.85,No,Sí
+35,Femenino,Arquitectura,7,13,74.3,Microsoft Teams,1.94,Sí,Sí
+33,Masculino,Mercadotecnia,8,9,72,Google Classroom,1.87,Sí,Sí
+26,Masculino,Turismo,6,10,100,Canvas,2.7,No,Sí
+22,Femenino,Mercadotecnia,7,18,76.9,Moodle,2.31,No,Sí
+31,Masculino,Administración de Empresas,4,15,73.5,Zoom,1.93,No,Sí
+27,Femenino,Derecho,4,29,79.2,Blackboard,2.51,No,No
+21,Masculino,Enfermería,6,25,63.5,Moodle,2.26,No,Sí
+17,Femenino,Arquitectura,8,13,100,Google Classroom,2.23,No,Sí
+24,Masculino,Medicina,5,11,55.9,Google Classroom,1.5,No,Sí
+28,Femenino,Arquitectura,6,27,68.8,Moodle,2.44,Sí,Sí
+28,No binario,Turismo,7,29,92,Google Classroom,3.37,Sí,No
+21,Femenino,Administración de Empresas,7,3,78.6,Canvas,1.73,No,Sí
+23,Femenino,Mercadotecnia,4,18,86.2,Google Classroom,3.29,Sí,Sí
+20,Masculino,Ingeniería en Sistemas,7,16,100,Zoom,2.11,No,Sí
+22,Femenino,Medicina,6,22,93.1,Canvas,2.93,Sí,Sí
+29,Masculino,Contaduría Pública,7,31,80.1,Microsoft Teams,2.84,No,Sí
+31,Masculino,Comunicación Social,6,14,100,Google Classroom,2.34,Sí,Sí
+19,Masculino,Ingeniería en Sistemas,5,3,68.6,Google Classroom,1.5,No,Sí
+24,Femenino,Comunicación Social,4,22,76.5,Zoom,2.48,No,Sí
+32,Femenino,Enfermería,7,27,77.5,Zoom,3.07,Sí,Sí
+29,Femenino,Ingeniería Industrial,6,15,76.5,Blackboard,2.22,Sí,Sí
+34,Masculino,Derecho,8,13,62,Moodle,1.61,Sí,No
+26,Masculino,Ingeniería Industrial,4,14,54.2,Moodle,1.81,No,Sí
+35,No binario,Medicina,5,23,84.3,Moodle,2.64,Sí,Sí
+33,Masculino,Psicología,6,14,68.5,Zoom,1.65,Sí,Sí
+35,Femenino,Medicina,5,20,100,Moodle,2.81,Sí,Sí
+21,Masculino,Ingeniería Industrial,5,18,76.9,Moodle,2.41,No,Sí
+25,Femenino,Arquitectura,7,17,74.2,Microsoft Teams,2.26,No,Sí
+28,Femenino,Turismo,7,22,94.4,Moodle,2.96,Sí,Sí
+17,Masculino,Mercadotecnia,6,14,84,Google Classroom,2.14,No,Sí
+17,Masculino,Arquitectura,8,14,75.4,Blackboard,2.23,No,Sí
+31,Femenino,Arquitectura,6,23,68.4,Zoom,2.43,Sí,Sí
+18,Femenino,Turismo,8,11,100,Canvas,2.53,No,Sí
+32,Masculino,Turismo,5,11,83.4,Blackboard,2.17,Sí,No
+24,Femenino,Enfermería,4,9,94.3,Microsoft Teams,2.94,No,Sí
+29,Masculino,Ingeniería en Sistemas,6,23,62.7,Zoom,2.61,Sí,Sí
+17,Masculino,Psicología,6,17,69.3,Zoom,2.23,No,Sí
+32,Femenino,Psicología,8,8,100,Google Classroom,2.12,No,Sí
+23,Masculino,Arquitectura,5,23,99,Blackboard,2.91,No,Sí
+21,Femenino,Comunicación Social,5,14,84.9,Blackboard,2.8,Sí,Sí
+19,Masculino,Enfermería,8,11,72.3,Moodle,1.77,No,Sí
+28,Masculino,Arquitectura,5,16,74.5,Google Classroom,2.15,No,Sí
+32,No binario,Derecho,7,28,67.9,Moodle,2.54,No,Sí
+35,Masculino,Mercadotecnia,4,15,60.6,Moodle,1.99,Sí,No
+21,Femenino,Turismo,6,22,91.9,Zoom,2.68,Sí,Sí
+30,Masculino,Ingeniería en Sistemas,4,23,86.1,Blackboard,2.8,Sí,Sí
+21,Masculino,Contaduría Pública,6,21,89,Moodle,2.59,No,Sí
+31,Masculino,Turismo,7,26,72.9,Microsoft Teams,3.01,No,Sí
+33,Femenino,Derecho,5,13,81.8,Microsoft Teams,2.01,Sí,Sí
+30,Masculino,Comunicación Social,8,10,71.5,Blackboard,2.17,Sí,Sí
+21,Femenino,Medicina,7,10,67.1,Microsoft Teams,1.61,No,Sí
+28,Femenino,Medicina,4,16,100,Zoom,2.45,Sí,Sí
+32,Femenino,Ingeniería Industrial,8,11,79.8,Google Classroom,1.87,Sí,No
+32,Masculino,Derecho,5,19,85.6,Canvas,2.04,Sí,Sí
+23,Femenino,Ingeniería Industrial,7,18,90.5,Moodle,2.74,Sí,Sí
+20,Femenino,Arquitectura,8,25,80,Canvas,2.36,No,Sí
+17,Femenino,Contaduría Pública,7,20,81.6,Google Classroom,2.41,No,Sí
+21,Femenino,Administración de Empresas,7,15,61.7,Google Classroom,2.13,Sí,Sí
+26,Femenino,Turismo,5,20,64.6,Zoom,2.4,Sí,Sí
+21,Femenino,Administración de Empresas,6,10,63.8,Microsoft Teams,1.5,Sí,Sí
+20,Masculino,Comunicación Social,8,17,87.1,Microsoft Teams,2.59,No,Sí
+18,Masculino,Arquitectura,5,20,79.1,Google Classroom,2.81,Sí,Sí
+26,Femenino,Psicología,7,18,64.6,Zoom,1.9,Sí,Sí
+35,Femenino,Turismo,5,20,86.7,Zoom,2.78,No,Sí
+17,Femenino,Ingeniería Industrial,6,13,86.2,Blackboard,1.96,Sí,Sí
+21,Femenino,Psicología,8,26,67.6,Moodle,2.62,Sí,Sí
+29,Masculino,Ingeniería en Sistemas,6,30,77.6,Microsoft Teams,2.92,Sí,Sí
+20,Masculino,Contaduría Pública,4,6,86.2,Google Classroom,2.19,No,Sí
+32,Femenino,Contaduría Pública,8,9,65.1,Blackboard,1.88,No,Sí
+32,Masculino,Medicina,6,18,86.5,Canvas,2.12,Sí,Sí
+18,Masculino,Enfermería,7,16,82.5,Microsoft Teams,2.4,No,Sí
+33,Femenino,Turismo,8,31,63,Moodle,3.07,Sí,Sí
+28,Masculino,Ingeniería Industrial,8,19,81.3,Zoom,1.81,No,No
+34,Femenino,Comunicación Social,5,27,83.5,Google Classroom,3.16,Sí,Sí
+19,Masculino,Administración de Empresas,7,3,68.6,Microsoft Teams,1.99,No,Sí
+17,Femenino,Comunicación Social,4,23,69.8,Canvas,1.97,No,Sí
+17,Masculino,Psicología,6,12,62.9,Moodle,1.59,No,Sí
+35,Femenino,Psicología,5,12,71.3,Moodle,2.11,No,Sí
+27,Masculino,Derecho,6,16,77.8,Blackboard,2,No,Sí
+21,Masculino,Ingeniería en Sistemas,4,8,69.8,Microsoft Teams,2.16,Sí,Sí
+28,Masculino,Turismo,4,21,55.7,Canvas,2.37,Sí,No
+19,Femenino,Contaduría Pública,8,19,67.7,Moodle,1.78,Sí,No
+17,Femenino,Mercadotecnia,4,19,71.7,Google Classroom,2.06,No,Sí
+17,Masculino,Ingeniería Industrial,6,24,90.3,Moodle,3.1,No,Sí
+24,Femenino,Comunicación Social,7,28,86.9,Canvas,3.2,Sí,Sí
+26,Femenino,Ingeniería Industrial,7,15,90.5,Zoom,3.14,No,Sí
+27,Femenino,Psicología,8,21,66.9,Zoom,2.01,No,Sí
+28,Masculino,Enfermería,6,20,80.1,Blackboard,2.93,Sí,Sí
+29,Femenino,Medicina,6,20,41.7,Microsoft Teams,1.5,No,Sí
+28,Masculino,Administración de Empresas,4,20,84.4,Canvas,2.73,No,Sí
+30,Masculino,Ingeniería en Sistemas,6,29,87.2,Blackboard,3.3,Sí,Sí
+18,No binario,Enfermería,5,14,72.7,Moodle,1.5,No,Sí
+35,Masculino,Ingeniería en Sistemas,4,7,82.4,Moodle,2.23,No,Sí
+34,Femenino,Derecho,5,13,55.3,Zoom,2.1,Sí,Sí
+19,Femenino,Mercadotecnia,8,23,66,Blackboard,2.67,No,Sí
+33,Femenino,Psicología,7,18,89.5,Zoom,3.21,Sí,Sí
+24,Femenino,Medicina,8,14,85.7,Google Classroom,2.63,Sí,Sí
+26,Masculino,Turismo,7,10,71.8,Zoom,1.72,No,Sí
+18,Masculino,Enfermería,8,19,90.2,Google Classroom,3.02,No,Sí
+35,Femenino,Ingeniería en Sistemas,6,22,80.1,Moodle,2.4,Sí,Sí
+25,Masculino,Contaduría Pública,5,20,70.4,Blackboard,2.32,No,Sí
+23,Masculino,Derecho,7,16,75.3,Google Classroom,2.47,No,Sí
+20,Masculino,Contaduría Pública,4,19,71.2,Blackboard,2.4,No,Sí
+34,Masculino,Medicina,5,18,60.2,Blackboard,2.41,Sí,Sí
+29,Masculino,Turismo,4,19,96.9,Google Classroom,3.53,No,Sí
+27,Masculino,Turismo,5,9,69.5,Microsoft Teams,1.5,No,Sí
+20,Femenino,Enfermería,5,19,65.5,Zoom,2.06,Sí,No
+20,Femenino,Ingeniería Industrial,8,14,55.1,Google Classroom,1.82,No,Sí
+26,Femenino,Derecho,7,25,38.5,Moodle,1.74,No,Sí
+21,Masculino,Turismo,7,18,88.5,Blackboard,2.55,No,Sí
+25,Masculino,Turismo,5,23,89.9,Canvas,3.05,No,Sí
+19,Masculino,Enfermería,6,15,95.9,Google Classroom,2.78,No,Sí
+33,Femenino,Psicología,6,16,75.8,Zoom,2.3,Sí,Sí
+19,Femenino,Arquitectura,4,28,73.2,Blackboard,2.75,No,Sí
+32,Masculino,Derecho,4,21,70.4,Microsoft Teams,2.27,No,Sí
+20,Femenino,Contaduría Pública,8,12,71.8,Moodle,2.39,No,Sí
+34,Masculino,Medicina,5,24,94.8,Microsoft Teams,3.46,Sí,Sí
+33,Femenino,Turismo,4,14,77.6,Canvas,2.48,Sí,No
+23,Femenino,Turismo,4,19,83.7,Google Classroom,2.17,Sí,Sí
+21,Femenino,Mercadotecnia,5,30,71.4,Blackboard,2.68,Sí,Sí
+28,Femenino,Psicología,8,7,97.8,Google Classroom,2.33,Sí,Sí
+33,Femenino,Turismo,4,16,49.4,Zoom,1.5,Sí,Sí
+29,Masculino,Arquitectura,8,20,59.7,Google Classroom,2.11,Sí,No
+19,Femenino,Mercadotecnia,7,23,83.7,Moodle,2.7,No,No
+25,Masculino,Administración de Empresas,8,9,100,Canvas,2.73,Sí,Sí
+33,Femenino,Psicología,6,7,74.6,Microsoft Teams,1.65,Sí,Sí
+33,Femenino,Medicina,6,25,65.4,Canvas,2.77,Sí,Sí
+32,Femenino,Ingeniería en Sistemas,8,12,93,Blackboard,2.11,Sí,Sí
+29,Femenino,Derecho,6,12,82.9,Google Classroom,1.95,Sí,Sí
+35,Femenino,Enfermería,7,28,97.4,Blackboard,3.08,Sí,No
+33,Femenino,Medicina,5,18,58.6,Microsoft Teams,1.99,No,No
+20,Femenino,Derecho,6,18,96.2,Blackboard,2,Sí,No
+28,Masculino,Mercadotecnia,6,16,54.8,Zoom,1.94,No,Sí
+25,Masculino,Ingeniería Industrial,8,9,73.7,Canvas,2.39,No,Sí
+35,Masculino,Enfermería,7,22,84.2,Microsoft Teams,2.86,No,Sí
+28,Masculino,Comunicación Social,5,20,80.8,Microsoft Teams,2.44,Sí,Sí
+25,Femenino,Contaduría Pública,8,19,93.9,Microsoft Teams,2.4,No,Sí
+23,Masculino,Administración de Empresas,8,17,50.6,Moodle,1.5,Sí,Sí
+30,No binario,Psicología,7,15,80.1,Canvas,1.78,Sí,Sí
+35,Masculino,Turismo,5,24,96,Blackboard,2.95,No,Sí
+31,Masculino,Ingeniería Industrial,7,17,78.9,Microsoft Teams,2.97,Sí,No
+32,Femenino,Ingeniería Industrial,5,17,60.9,Canvas,1.5,Sí,Sí
+21,Femenino,Medicina,7,21,93.1,Microsoft Teams,3.01,Sí,No
+19,Femenino,Administración de Empresas,8,19,68.3,Zoom,2.01,No,Sí
+28,Femenino,Ingeniería en Sistemas,8,29,65.6,Zoom,2.5,Sí,Sí
+20,Femenino,Derecho,4,5,63.7,Zoom,1.5,No,Sí
+32,Masculino,Derecho,6,20,75,Google Classroom,1.98,No,Sí
+23,No binario,Medicina,7,13,80.7,Microsoft Teams,2.23,No,No
+29,No binario,Arquitectura,4,11,59,Google Classroom,1.75,No,No
+26,Femenino,Arquitectura,6,14,62,Canvas,2.06,Sí,Sí
+23,Masculino,Turismo,7,18,67.6,Google Classroom,1.65,No,Sí
+30,Femenino,Comunicación Social,5,18,63.7,Canvas,2.34,No,Sí
+21,Masculino,Contaduría Pública,6,7,78.6,Canvas,2.15,No,Sí
+19,Masculino,Enfermería,8,14,83.4,Canvas,2.42,No,No
+27,Masculino,Ingeniería en Sistemas,4,19,81.4,Blackboard,2.35,Sí,Sí
+27,Femenino,Turismo,6,11,81.4,Google Classroom,2.21,Sí,Sí
+34,Femenino,Administración de Empresas,6,10,100,Blackboard,2.4,Sí,Sí
+31,Femenino,Arquitectura,8,3,84.4,Microsoft Teams,2.11,Sí,Sí
+28,Femenino,Comunicación Social,7,13,89.8,Google Classroom,2.26,No,Sí
+25,Masculino,Comunicación Social,5,9,71.8,Microsoft Teams,1.87,Sí,No
+26,Masculino,Medicina,8,11,92.2,Microsoft Teams,1.81,Sí,Sí
+28,Masculino,Ingeniería en Sistemas,5,16,71.1,Canvas,2.22,Sí,Sí
+33,No binario,Mercadotecnia,7,13,84.2,Google Classroom,2.04,Sí,Sí
+22,Masculino,Enfermería,6,9,57.4,Microsoft Teams,1.7,Sí,Sí
+23,Femenino,Contaduría Pública,5,3,80.5,Zoom,1.98,No,Sí
+30,Femenino,Psicología,4,20,63.4,Microsoft Teams,1.97,Sí,Sí
+29,Masculino,Medicina,4,23,92,Zoom,2.87,No,Sí
+24,Femenino,Enfermería,8,15,91.1,Google Classroom,2.54,Sí,Sí
+26,Femenino,Psicología,7,16,71,Blackboard,2.24,Sí,Sí
+25,Femenino,Psicología,8,18,100,Google Classroom,3.04,Sí,Sí
+34,Femenino,Ingeniería en Sistemas,8,29,73.7,Blackboard,2.96,No,Sí
+18,Masculino,Ingeniería en Sistemas,8,7,53.8,Blackboard,1.5,Sí,Sí
+21,Masculino,Turismo,4,15,66.3,Google Classroom,2.47,No,Sí
+21,Femenino,Administración de Empresas,4,5,62.3,Microsoft Teams,1.69,Sí,Sí
+22,Femenino,Comunicación Social,8,20,83.7,Moodle,2.98,No,Sí
+35,Masculino,Enfermería,4,16,59.5,Microsoft Teams,2.01,No,Sí
+24,Femenino,Medicina,7,19,69.9,Microsoft Teams,2.36,Sí,No
+32,Femenino,Turismo,8,19,82.7,Canvas,2.46,No,Sí
+29,Femenino,Derecho,4,24,80.1,Canvas,2.54,Sí,Sí
+17,Masculino,Medicina,5,21,77.8,Microsoft Teams,2.78,No,No
+33,Femenino,Administración de Empresas,8,23,79.9,Zoom,2.7,Sí,Sí
+23,Femenino,Contaduría Pública,8,10,72.4,Blackboard,1.85,Sí,Sí
+29,Masculino,Ingeniería Industrial,7,26,53.9,Canvas,1.93,No,Sí
+20,Masculino,Ingeniería Industrial,6,12,72,Microsoft Teams,2.44,No,Sí
+20,No binario,Comunicación Social,6,13,85,Moodle,2.31,Sí,Sí
+22,Masculino,Ingeniería Industrial,7,19,75.9,Zoom,1.99,No,Sí
+35,Femenino,Ingeniería Industrial,7,20,83.9,Google Classroom,2.59,Sí,Sí
+28,Femenino,Derecho,7,10,69.2,Microsoft Teams,1.77,Sí,No
+23,Masculino,Arquitectura,6,16,92.9,Microsoft Teams,2.5,No,Sí
+26,Femenino,Contaduría Pública,7,28,39.7,Blackboard,2.21,Sí,Sí
+35,Masculino,Ingeniería en Sistemas,4,7,80.1,Zoom,1.85,Sí,Sí
+23,Femenino,Psicología,8,28,98.2,Canvas,3.12,No,Sí
+19,Masculino,Arquitectura,8,16,100,Canvas,3.12,Sí,Sí
+29,Femenino,Medicina,5,3,74.5,Canvas,1.5,No,Sí
+29,Masculino,Medicina,5,8,58.1,Google Classroom,1.5,Sí,Sí
+34,Masculino,Ingeniería Industrial,8,11,98.5,Zoom,2.74,Sí,Sí
+24,Femenino,Ingeniería en Sistemas,4,13,77.2,Zoom,2.31,Sí,Sí
+25,Masculino,Administración de Empresas,6,17,75.6,Canvas,2.57,Sí,Sí
+23,Femenino,Enfermería,6,3,64.6,Canvas,2.03,No,Sí
+17,Masculino,Arquitectura,4,19,59.3,Blackboard,2.54,Sí,Sí
+19,Femenino,Arquitectura,6,10,86.5,Moodle,1.83,Sí,Sí
+29,Masculino,Mercadotecnia,7,27,88,Moodle,2.48,No,Sí
+33,Femenino,Contaduría Pública,8,16,81,Microsoft Teams,2.43,Sí,Sí
+17,Femenino,Comunicación Social,8,24,66.5,Microsoft Teams,1.99,No,Sí
+22,Masculino,Contaduría Pública,4,25,62,Zoom,1.77,Sí,Sí
+22,Masculino,Enfermería,6,25,56.5,Zoom,2.34,No,Sí
+28,Masculino,Medicina,5,14,69.6,Google Classroom,2.18,Sí,Sí
+29,Femenino,Medicina,5,13,62.9,Google Classroom,2.35,No,Sí
+29,Masculino,Medicina,6,16,52.4,Moodle,1.99,No,Sí
+31,Femenino,Mercadotecnia,5,22,87.8,Microsoft Teams,3.31,Sí,Sí
+32,Masculino,Medicina,4,14,58.2,Moodle,1.89,Sí,Sí
+27,Masculino,Enfermería,4,17,92.8,Moodle,2.27,No,Sí
+21,Femenino,Turismo,6,19,83.9,Microsoft Teams,2.77,No,Sí
+20,Femenino,Ingeniería en Sistemas,5,11,82.4,Google Classroom,2.54,Sí,Sí
+19,Masculino,Comunicación Social,4,11,100,Blackboard,2.61,Sí,Sí
+35,Masculino,Enfermería,4,16,58.7,Blackboard,2.32,No,Sí
+34,Masculino,Ingeniería Industrial,7,17,91.1,Blackboard,2.54,Sí,Sí
+31,Femenino,Turismo,7,21,73.5,Microsoft Teams,2.57,Sí,Sí
+25,Femenino,Comunicación Social,4,22,100,Canvas,2.93,Sí,Sí
+33,Femenino,Enfermería,6,10,72.3,Canvas,2.6,No,Sí
+30,Femenino,Turismo,8,12,69.9,Canvas,2.18,No,Sí
+31,Femenino,Medicina,8,11,84.4,Zoom,1.84,No,Sí
+17,Femenino,Ingeniería en Sistemas,4,27,74.9,Google Classroom,3.25,Sí,Sí
+19,Femenino,Arquitectura,4,17,66.6,Google Classroom,1.87,No,Sí
+32,Masculino,Contaduría Pública,4,18,63.4,Zoom,2.07,Sí,Sí
+27,Masculino,Psicología,6,18,99.9,Moodle,2.94,Sí,Sí
+28,Masculino,Ingeniería en Sistemas,7,12,60.5,Blackboard,1.91,Sí,No
+26,Masculino,Arquitectura,4,28,81.3,Canvas,3.02,Sí,No
+32,Femenino,Administración de Empresas,4,20,93.8,Blackboard,2.42,No,Sí
+24,Femenino,Enfermería,5,18,94.6,Canvas,2.84,Sí,Sí
+22,Masculino,Administración de Empresas,6,10,69,Blackboard,2.15,No,Sí
+28,Masculino,Arquitectura,4,9,74.9,Moodle,2.22,No,Sí
+24,Femenino,Ingeniería en Sistemas,5,15,72,Blackboard,1.72,No,Sí
+20,Femenino,Enfermería,8,13,55,Blackboard,1.5,Sí,Sí
+24,Masculino,Ingeniería Industrial,4,10,86.1,Microsoft Teams,1.85,Sí,Sí
+34,Femenino,Psicología,4,15,78.6,Blackboard,2.34,No,Sí
+21,Masculino,Medicina,5,16,99.6,Microsoft Teams,2.24,Sí,Sí
+25,Masculino,Enfermería,6,18,65.7,Google Classroom,1.78,Sí,No
+20,No binario,Ingeniería Industrial,4,14,94.3,Zoom,2.31,No,Sí
+33,Femenino,Enfermería,8,10,95.4,Blackboard,1.81,Sí,Sí
+25,Masculino,Ingeniería en Sistemas,4,11,78.7,Google Classroom,2.05,No,Sí
+17,Femenino,Ingeniería Industrial,8,26,45.4,Microsoft Teams,1.5,No,Sí
+29,Femenino,Ingeniería en Sistemas,7,9,70.3,Blackboard,1.95,Sí,Sí
+32,Femenino,Turismo,7,20,100,Blackboard,2.77,Sí,Sí
+29,Femenino,Arquitectura,8,21,82.5,Moodle,2.4,Sí,Sí
+30,Femenino,Derecho,6,17,88.4,Google Classroom,2.39,Sí,Sí
+19,Femenino,Enfermería,4,30,76.7,Canvas,2.85,No,Sí
+22,Femenino,Contaduría Pública,4,21,74.6,Canvas,2.6,Sí,Sí
+34,Masculino,Enfermería,7,30,50,Moodle,2.73,Sí,No
+35,Masculino,Arquitectura,8,13,89.9,Microsoft Teams,2.68,Sí,Sí
+21,Masculino,Comunicación Social,4,13,94.2,Canvas,3.13,Sí,Sí
+31,Femenino,Administración de Empresas,4,21,63.7,Canvas,2.41,Sí,Sí
+18,Masculino,Turismo,6,16,75.3,Zoom,2.26,Sí,Sí
+26,Femenino,Medicina,5,29,73.3,Google Classroom,2.62,No,Sí
+34,Femenino,Ingeniería Industrial,7,20,84.3,Microsoft Teams,2.45,Sí,Sí
+29,Masculino,Derecho,7,10,69.8,Blackboard,2,Sí,Sí
+21,Femenino,Psicología,5,5,92,Google Classroom,1.76,Sí,Sí
+17,Masculino,Psicología,4,17,79.1,Microsoft Teams,2.41,No,Sí
+17,Femenino,Psicología,6,17,39.8,Canvas,1.55,Sí,Sí
+34,Masculino,Ingeniería en Sistemas,6,20,84.6,Zoom,2.36,No,Sí
+31,Femenino,Psicología,7,26,92.9,Google Classroom,2.7,Sí,Sí
+33,Femenino,Medicina,6,25,60.7,Canvas,3.08,No,Sí
+27,Femenino,Turismo,5,13,84.1,Microsoft Teams,1.84,No,Sí
+33,Femenino,Administración de Empresas,4,8,100,Google Classroom,2.34,Sí,No
+29,Femenino,Psicología,5,9,79.7,Blackboard,2.36,Sí,No
+17,Femenino,Enfermería,8,12,95.1,Google Classroom,2.59,No,Sí
+18,Femenino,Enfermería,7,15,71.4,Canvas,1.95,No,Sí
+25,Femenino,Ingeniería en Sistemas,6,20,77.7,Google Classroom,2.09,Sí,Sí
+19,Masculino,Medicina,8,12,74.9,Blackboard,2.07,No,No
+17,Femenino,Administración de Empresas,6,19,72.2,Zoom,1.5,Sí,Sí
+32,Femenino,Derecho,4,20,75.8,Zoom,2.46,Sí,Sí
+22,Femenino,Arquitectura,4,19,53.5,Canvas,1.92,No,Sí
+33,Masculino,Administración de Empresas,4,10,73,Microsoft Teams,2.23,Sí,Sí
+21,Femenino,Arquitectura,6,21,98.1,Canvas,2.55,Sí,Sí
+21,Masculino,Comunicación Social,8,32,63.5,Zoom,2.6,No,Sí
+22,Femenino,Arquitectura,4,19,62,Moodle,2.22,Sí,Sí
+19,Masculino,Turismo,8,3,78.9,Moodle,1.77,No,Sí
+21,Femenino,Contaduría Pública,6,26,79.7,Google Classroom,2.35,Sí,Sí
+21,No binario,Turismo,8,13,83.7,Blackboard,2.06,Sí,Sí
+26,Masculino,Enfermería,6,33,76.3,Google Classroom,3.41,Sí,Sí
+26,No binario,Medicina,6,18,79.1,Moodle,2.46,Sí,No
+35,Masculino,Mercadotecnia,7,6,72.7,Zoom,1.5,No,Sí
+33,Femenino,Ingeniería en Sistemas,6,3,58.9,Google Classroom,1.58,No,Sí
+30,Femenino,Contaduría Pública,6,28,76.9,Canvas,2.3,Sí,Sí
+25,Femenino,Arquitectura,5,25,88.9,Blackboard,2.8,No,Sí
+30,Femenino,Psicología,4,33,85.7,Canvas,3.35,Sí,Sí
+17,Femenino,Medicina,7,18,51.8,Blackboard,2.2,No,Sí
+35,Masculino,Contaduría Pública,7,17,81.8,Zoom,1.69,No,Sí
+29,Masculino,Ingeniería en Sistemas,7,15,64.6,Google Classroom,2.17,Sí,No
+29,Femenino,Enfermería,5,13,98.9,Blackboard,2.81,Sí,No
+20,Femenino,Medicina,6,15,82.9,Canvas,2.16,No,No
+17,Femenino,Ingeniería en Sistemas,4,19,91.4,Google Classroom,2.7,No,Sí
+33,Femenino,Comunicación Social,8,12,78.3,Google Classroom,1.5,Sí,Sí
+24,Masculino,Comunicación Social,6,6,77,Canvas,1.5,No,Sí
+18,Femenino,Turismo,5,19,100,Moodle,3.18,No,Sí
+24,Masculino,Turismo,6,11,92.6,Blackboard,2.18,Sí,Sí
+23,Femenino,Ingeniería en Sistemas,6,3,79.8,Canvas,1.63,Sí,Sí
+18,Masculino,Contaduría Pública,5,21,75,Zoom,2.5,No,Sí
+19,Masculino,Turismo,7,10,52.4,Microsoft Teams,1.5,Sí,Sí
+34,Masculino,Medicina,7,22,82.9,Canvas,2.5,No,Sí
+28,Masculino,Contaduría Pública,4,22,76.1,Google Classroom,2.62,Sí,Sí
+17,Femenino,Turismo,4,19,86.3,Google Classroom,2.12,No,Sí
+28,Masculino,Derecho,7,35,90.9,Canvas,3.72,Sí,Sí
+21,Masculino,Arquitectura,8,17,96.5,Microsoft Teams,2.62,No,Sí
+33,Masculino,Derecho,6,16,83.1,Canvas,2.07,Sí,Sí
+32,Masculino,Ingeniería Industrial,8,22,62.3,Microsoft Teams,1.88,No,No
+31,Masculino,Comunicación Social,6,17,45.8,Microsoft Teams,1.68,Sí,Sí
+31,Masculino,Enfermería,7,26,65.6,Zoom,2.38,No,No
+21,Femenino,Administración de Empresas,4,9,98,Blackboard,1.9,No,Sí
+30,Femenino,Arquitectura,4,9,100,Google Classroom,2.22,Sí,Sí
+18,Femenino,Comunicación Social,8,23,74.4,Google Classroom,2.27,No,Sí
+27,Femenino,Contaduría Pública,4,9,56.1,Microsoft Teams,1.9,Sí,Sí
+35,Masculino,Contaduría Pública,7,22,68.3,Google Classroom,2.38,Sí,Sí
+23,Femenino,Contaduría Pública,8,20,95.1,Moodle,3.26,Sí,Sí
+22,Femenino,Enfermería,6,13,69.1,Microsoft Teams,1.75,No,Sí
+18,Femenino,Derecho,4,20,86.8,Google Classroom,2.54,No,Sí
+22,Masculino,Administración de Empresas,5,9,80.5,Moodle,2.13,No,Sí
+34,Masculino,Turismo,4,11,88.7,Zoom,2.44,Sí,Sí
+18,Masculino,Contaduría Pública,6,16,100,Google Classroom,2.93,No,Sí
+34,Masculino,Mercadotecnia,8,18,86.8,Moodle,2.27,Sí,Sí
+31,Femenino,Ingeniería Industrial,6,15,80.2,Canvas,2.01,No,Sí
+35,Femenino,Arquitectura,5,21,100,Blackboard,2.83,Sí,Sí
+18,Femenino,Medicina,7,20,83.2,Canvas,3,No,Sí
+22,Femenino,Turismo,4,28,66.1,Moodle,2.27,No,Sí
+17,Femenino,Mercadotecnia,8,17,88.3,Microsoft Teams,2.36,No,Sí
+31,Femenino,Administración de Empresas,7,26,84.7,Microsoft Teams,3.07,No,Sí
+26,Femenino,Enfermería,6,24,73.4,Google Classroom,2.74,Sí,Sí
+35,Masculino,Administración de Empresas,8,34,70.2,Canvas,3.08,Sí,Sí
+33,Masculino,Medicina,7,17,73.5,Microsoft Teams,2.25,Sí,Sí
+21,Masculino,Arquitectura,8,15,70,Microsoft Teams,1.75,No,Sí
+20,Femenino,Medicina,5,26,74,Canvas,2.43,No,Sí
+26,Femenino,Ingeniería en Sistemas,5,20,65.4,Zoom,2.53,No,Sí
+33,Masculino,Arquitectura,4,26,83.8,Microsoft Teams,3.06,Sí,Sí
+26,Femenino,Administración de Empresas,4,23,82.7,Blackboard,2.28,Sí,Sí
+33,Masculino,Contaduría Pública,5,3,83.2,Moodle,2.06,Sí,Sí
+21,Femenino,Administración de Empresas,8,20,77.1,Google Classroom,2.82,No,Sí
+18,Masculino,Administración de Empresas,5,20,75.3,Microsoft Teams,2.41,Sí,Sí
+22,Masculino,Arquitectura,4,18,99.6,Blackboard,2.92,Sí,No
+18,Femenino,Ingeniería Industrial,5,17,79,Blackboard,2.64,No,Sí
+29,Masculino,Ingeniería en Sistemas,5,6,97,Microsoft Teams,2,Sí,Sí
+27,Masculino,Turismo,8,24,63.1,Zoom,3.03,Sí,Sí
+27,Masculino,Administración de Empresas,7,20,86.8,Moodle,2.99,Sí,Sí
+32,Femenino,Mercadotecnia,4,25,67,Google Classroom,2.61,No,Sí
+27,Femenino,Comunicación Social,8,7,69.7,Microsoft Teams,1.69,Sí,Sí
+35,Masculino,Psicología,5,21,71.8,Google Classroom,2.52,No,Sí
+31,Femenino,Psicología,5,16,70.9,Canvas,1.66,Sí,Sí
+32,Femenino,Administración de Empresas,7,19,71,Blackboard,2.89,No,Sí
+27,Masculino,Mercadotecnia,4,16,96.3,Blackboard,2.98,Sí,Sí
+32,Masculino,Ingeniería Industrial,4,21,78.7,Microsoft Teams,2.95,Sí,No
+24,Masculino,Contaduría Pública,6,16,81.4,Microsoft Teams,2.35,No,Sí
+20,Masculino,Enfermería,4,10,71.1,Canvas,1.76,No,Sí
+24,Femenino,Enfermería,7,18,90.9,Zoom,2.42,Sí,Sí
+20,Masculino,Arquitectura,6,16,83.3,Microsoft Teams,2.62,No,Sí
+19,Femenino,Psicología,6,17,73.4,Blackboard,2.07,No,No
+19,Femenino,Administración de Empresas,5,3,54.2,Google Classroom,1.5,No,Sí
+34,Masculino,Enfermería,5,22,81.2,Moodle,2.77,No,Sí
+35,Femenino,Administración de Empresas,4,15,86.6,Google Classroom,2.2,Sí,Sí
+35,Masculino,Arquitectura,6,8,63.3,Zoom,1.93,No,Sí
+21,Femenino,Psicología,5,24,73.6,Moodle,2.53,Sí,Sí
+34,Femenino,Medicina,7,22,86.1,Google Classroom,2.25,Sí,No
+26,Femenino,Ingeniería Industrial,5,15,54.4,Google Classroom,1.55,No,No
+22,Femenino,Comunicación Social,5,9,68.3,Canvas,2.16,No,Sí
+17,Masculino,Comunicación Social,6,19,83.7,Zoom,2.24,No,Sí
+21,Femenino,Enfermería,6,18,94.6,Blackboard,2.96,Sí,Sí
+25,Femenino,Comunicación Social,8,24,100,Canvas,3.1,Sí,Sí
+28,Femenino,Ingeniería Industrial,7,14,100,Moodle,2.57,No,Sí
+30,Femenino,Medicina,6,26,80.2,Blackboard,3.51,Sí,Sí
+18,Femenino,Ingeniería Industrial,4,14,70.7,Canvas,1.65,No,Sí
+33,Masculino,Administración de Empresas,7,8,91.8,Zoom,1.97,Sí,Sí
+30,Masculino,Arquitectura,7,10,69.8,Microsoft Teams,1.83,Sí,No
+29,Femenino,Turismo,6,17,66.6,Microsoft Teams,2.81,Sí,Sí
+25,Masculino,Medicina,7,17,73.4,Moodle,2.22,Sí,Sí
+31,Femenino,Turismo,6,20,71.5,Microsoft Teams,2.4,Sí,Sí
+31,Femenino,Arquitectura,5,17,84.2,Canvas,2.34,Sí,Sí
+27,Masculino,Arquitectura,8,24,69,Moodle,2.55,No,Sí
+32,Masculino,Psicología,5,16,79.3,Blackboard,2.21,Sí,Sí
+33,Femenino,Turismo,6,4,100,Zoom,2.39,No,Sí
+20,Masculino,Administración de Empresas,6,17,79.8,Moodle,2.58,No,Sí
+17,Femenino,Mercadotecnia,5,3,100,Blackboard,2.06,No,Sí
+24,Masculino,Comunicación Social,4,19,96,Moodle,2.43,No,Sí
+33,Femenino,Turismo,4,25,86.9,Google Classroom,2.88,Sí,Sí
+19,Masculino,Mercadotecnia,4,11,72.7,Google Classroom,2.36,Sí,Sí
+31,Femenino,Psicología,6,27,93.6,Moodle,2.82,Sí,Sí
+31,Femenino,Arquitectura,7,23,74.3,Microsoft Teams,2.61,Sí,Sí
+30,Femenino,Enfermería,6,26,78,Google Classroom,2.35,No,Sí
+30,Masculino,Ingeniería Industrial,7,19,83,Zoom,2.19,Sí,Sí
+18,Femenino,Comunicación Social,5,11,77.9,Blackboard,2.44,No,No
+29,Femenino,Comunicación Social,8,23,67.2,Canvas,2.57,Sí,Sí
+30,Masculino,Administración de Empresas,7,13,55.1,Google Classroom,1.78,No,Sí
+35,Masculino,Ingeniería en Sistemas,4,18,92.4,Moodle,1.95,Sí,Sí
+23,Masculino,Derecho,6,16,86.6,Microsoft Teams,2.28,Sí,Sí
+19,Femenino,Derecho,5,25,52.2,Canvas,2.34,No,No
+31,Femenino,Derecho,4,23,66.8,Blackboard,1.92,No,Sí
+30,Femenino,Ingeniería en Sistemas,5,17,80.7,Blackboard,2.26,Sí,Sí
+27,Masculino,Administración de Empresas,8,4,84.6,Google Classroom,2.1,No,Sí
+31,Masculino,Ingeniería en Sistemas,6,13,55.2,Blackboard,1.5,No,No
+29,Femenino,Derecho,6,22,76.7,Blackboard,2.01,No,No
+34,Femenino,Psicología,8,19,86.1,Microsoft Teams,2.12,Sí,No
+22,No binario,Medicina,6,7,72.7,Microsoft Teams,1.87,No,Sí
+19,Masculino,Turismo,7,5,81.8,Microsoft Teams,1.69,No,Sí
+35,Femenino,Arquitectura,5,19,70.7,Moodle,2.52,Sí,Sí
+31,Masculino,Ingeniería en Sistemas,4,10,91.6,Blackboard,2.31,Sí,Sí
+21,Masculino,Administración de Empresas,8,11,66,Blackboard,2.37,Sí,No
+26,Femenino,Administración de Empresas,7,22,60.9,Blackboard,1.82,Sí,Sí
+23,Femenino,Turismo,4,26,78.4,Zoom,2.82,No,No
+33,No binario,Mercadotecnia,4,12,56.5,Microsoft Teams,1.5,No,Sí
+23,Masculino,Medicina,8,17,46.4,Canvas,1.86,Sí,Sí
+28,Masculino,Enfermería,7,17,94.3,Google Classroom,2.68,Sí,Sí
+33,Femenino,Comunicación Social,4,16,63.2,Canvas,1.68,No,Sí
+29,Femenino,Derecho,4,18,58,Moodle,1.91,Sí,Sí
+20,Masculino,Enfermería,7,23,65.8,Moodle,2.36,No,Sí
+26,Masculino,Mercadotecnia,6,13,65.2,Blackboard,1.7,Sí,No
+19,Masculino,Derecho,4,7,75.9,Canvas,2.05,No,Sí
+25,Femenino,Medicina,5,29,61.6,Blackboard,2.21,Sí,Sí
+29,Masculino,Ingeniería Industrial,7,25,85.5,Zoom,3.45,Sí,Sí
+34,Masculino,Mercadotecnia,4,10,87.7,Moodle,2.48,Sí,Sí
+31,Masculino,Derecho,8,18,58.9,Moodle,2.08,No,Sí
+20,Masculino,Medicina,5,25,68.7,Canvas,3.34,No,Sí
+31,Masculino,Contaduría Pública,4,23,70.2,Moodle,2.33,No,Sí
+18,Femenino,Enfermería,5,21,75.5,Zoom,2.63,No,Sí
+31,Masculino,Enfermería,5,16,94.2,Zoom,2.66,Sí,Sí
+24,Femenino,Comunicación Social,6,30,95.1,Zoom,3.47,No,No
+24,Masculino,Turismo,5,19,100,Google Classroom,3.29,Sí,Sí
+33,Femenino,Medicina,6,14,44,Zoom,1.67,No,Sí
+28,Femenino,Ingeniería en Sistemas,7,24,64.1,Zoom,2.66,No,Sí
+35,Femenino,Contaduría Pública,6,18,100,Google Classroom,2.63,No,Sí
+26,Femenino,Ingeniería Industrial,8,20,51,Blackboard,1.85,Sí,Sí
+25,Masculino,Psicología,4,19,100,Microsoft Teams,3.34,Sí,Sí
+21,Masculino,Derecho,7,21,80.2,Moodle,2.72,No,Sí
+22,Femenino,Contaduría Pública,7,11,80.8,Zoom,2.18,No,Sí
+18,No binario,Medicina,8,7,58.8,Moodle,1.5,Sí,Sí
+29,Femenino,Arquitectura,6,28,71.2,Canvas,2.96,Sí,Sí
+22,Femenino,Derecho,4,19,100,Moodle,2.61,No,Sí
+21,Femenino,Administración de Empresas,6,23,77.3,Blackboard,2.25,Sí,Sí
+17,Femenino,Enfermería,5,5,71.3,Google Classroom,1.68,No,Sí
+22,Masculino,Turismo,6,25,84.1,Moodle,2.07,Sí,Sí
+22,Femenino,Medicina,7,14,75.1,Moodle,2.31,No,Sí
+32,Femenino,Ingeniería Industrial,4,12,83.2,Moodle,2.31,No,Sí
+20,Masculino,Administración de Empresas,6,17,65.3,Microsoft Teams,1.96,No,Sí
+27,Femenino,Comunicación Social,4,11,76.8,Microsoft Teams,1.95,Sí,No
+25,Masculino,Mercadotecnia,4,17,68.4,Canvas,2.09,Sí,Sí
+19,Femenino,Psicología,5,17,50.9,Google Classroom,1.54,No,Sí
+35,Masculino,Psicología,5,25,85.2,Moodle,2.87,No,Sí
+24,Femenino,Administración de Empresas,7,28,59.5,Moodle,2.36,No,Sí
+21,Femenino,Enfermería,8,28,75.5,Moodle,2.79,No,Sí
+20,Masculino,Comunicación Social,4,3,91.9,Moodle,1.92,No,Sí
+22,Femenino,Arquitectura,8,11,55.5,Microsoft Teams,1.5,No,Sí
+18,Femenino,Enfermería,7,3,87.1,Blackboard,1.96,No,No
+27,Femenino,Contaduría Pública,4,9,73.5,Blackboard,2.1,Sí,Sí
+20,Masculino,Turismo,4,13,63.5,Canvas,1.69,No,Sí
+31,Masculino,Psicología,8,20,100,Zoom,3.01,Sí,Sí
+22,Masculino,Contaduría Pública,6,14,78,Google Classroom,2.34,Sí,Sí
+33,No binario,Ingeniería Industrial,5,14,69.5,Blackboard,1.63,Sí,Sí
+22,Femenino,Derecho,6,19,66.3,Moodle,2.46,Sí,Sí
+35,Femenino,Ingeniería en Sistemas,8,6,91.2,Blackboard,2.71,No,Sí
+18,Femenino,Medicina,5,12,68.8,Canvas,1.88,Sí,Sí
+31,Femenino,Comunicación Social,6,14,89.3,Zoom,2.36,Sí,Sí
+27,Femenino,Enfermería,5,16,78,Blackboard,2.21,Sí,Sí
+24,Masculino,Psicología,4,18,94.7,Canvas,2.88,Sí,No
+35,Femenino,Contaduría Pública,6,28,62.4,Microsoft Teams,2.65,Sí,Sí
+29,Masculino,Mercadotecnia,5,24,64.5,Zoom,1.88,No,Sí
+28,Femenino,Turismo,5,12,73.8,Canvas,1.75,Sí,Sí
+21,Femenino,Turismo,5,16,75,Blackboard,2.36,No,Sí
+22,Femenino,Derecho,6,15,72.7,Microsoft Teams,2.08,No,Sí
+20,Masculino,Medicina,7,14,100,Canvas,2.27,No,Sí
+35,Masculino,Medicina,6,19,100,Canvas,3.29,Sí,Sí
+17,Masculino,Turismo,8,4,82.5,Blackboard,1.59,Sí,Sí
+33,Masculino,Turismo,6,24,84.3,Zoom,2.76,No,Sí
+28,Masculino,Enfermería,5,29,74.5,Microsoft Teams,2.73,Sí,Sí
+31,Femenino,Comunicación Social,4,16,62.3,Moodle,1.63,No,Sí
+17,Femenino,Arquitectura,6,15,75.3,Google Classroom,2.23,No,Sí
+30,Masculino,Ingeniería Industrial,6,19,89.6,Zoom,2.75,No,No
+22,Masculino,Mercadotecnia,5,25,97.6,Microsoft Teams,2.92,No,Sí
+21,Masculino,Ingeniería Industrial,4,15,92.9,Canvas,2.42,No,No
+27,Femenino,Enfermería,4,24,55.4,Microsoft Teams,2.35,Sí,Sí
+20,Femenino,Contaduría Pública,8,21,73.7,Google Classroom,1.81,No,Sí
+29,Femenino,Ingeniería en Sistemas,6,34,56,Blackboard,2.38,Sí,Sí
+27,Femenino,Turismo,4,15,95.5,Google Classroom,2.64,Sí,Sí
+19,No binario,Administración de Empresas,4,4,71.8,Moodle,1.5,No,Sí
+17,Femenino,Arquitectura,7,7,77.3,Moodle,1.69,No,Sí
+22,Masculino,Comunicación Social,7,18,85.2,Google Classroom,2.77,No,Sí
+34,Femenino,Derecho,4,25,100,Zoom,2.92,No,No
+26,Masculino,Arquitectura,8,13,82,Zoom,2.81,Sí,Sí
+21,Femenino,Turismo,4,16,74.4,Canvas,1.67,No,Sí
+26,Masculino,Psicología,5,22,59.4,Moodle,1.5,No,Sí
+28,Femenino,Comunicación Social,6,11,99.9,Canvas,2.75,Sí,Sí
+18,Femenino,Ingeniería en Sistemas,8,13,75.3,Moodle,1.79,No,Sí
+29,Femenino,Psicología,5,9,100,Google Classroom,2.11,Sí,Sí
+24,Femenino,Arquitectura,8,26,94.6,Zoom,3.34,No,Sí
+18,Masculino,Administración de Empresas,5,28,71.1,Zoom,2.52,Sí,Sí
+17,Masculino,Administración de Empresas,6,6,57.1,Google Classroom,1.68,No,Sí
+21,Masculino,Ingeniería en Sistemas,6,17,82.1,Canvas,2.21,No,No
+25,Masculino,Medicina,7,27,68.8,Canvas,2.68,Sí,Sí
+33,Femenino,Mercadotecnia,5,20,78.6,Microsoft Teams,2.31,Sí,Sí
+25,Masculino,Turismo,7,14,93.7,Moodle,2.22,Sí,Sí
+27,No binario,Derecho,5,7,53.2,Canvas,1.89,Sí,No
+31,Femenino,Turismo,7,26,82,Google Classroom,3.13,No,Sí
+22,Femenino,Medicina,6,20,89.4,Canvas,2.46,Sí,Sí
+19,Masculino,Ingeniería Industrial,8,7,90.1,Zoom,2.06,Sí,No
+33,Femenino,Ingeniería Industrial,7,26,57.5,Moodle,2.75,No,No
+21,Femenino,Ingeniería Industrial,5,6,84.3,Blackboard,1.66,No,Sí
+28,Femenino,Administración de Empresas,5,16,96.1,Microsoft Teams,2.35,Sí,Sí
+34,Femenino,Administración de Empresas,6,16,83.1,Moodle,2.51,Sí,Sí
+30,Femenino,Contaduría Pública,5,29,76.3,Zoom,3.5,Sí,Sí
+27,Masculino,Psicología,4,16,95.1,Zoom,2.63,No,Sí
+25,Femenino,Arquitectura,8,16,67.6,Zoom,2.38,Sí,Sí
+18,Masculino,Derecho,7,8,55.1,Zoom,1.5,No,Sí
+28,Masculino,Ingeniería en Sistemas,8,13,75,Google Classroom,2.19,Sí,Sí
+19,Masculino,Arquitectura,6,12,86,Microsoft Teams,2.15,Sí,Sí
+19,Masculino,Turismo,7,12,93.6,Blackboard,2.97,No,Sí
+17,Masculino,Contaduría Pública,7,18,86,Zoom,3,No,Sí
+24,Masculino,Administración de Empresas,4,3,90.5,Zoom,2.63,No,Sí
+24,Femenino,Ingeniería en Sistemas,6,7,93.7,Canvas,1.98,Sí,Sí
+27,Femenino,Administración de Empresas,5,17,72.9,Microsoft Teams,2.22,Sí,No
+25,Femenino,Derecho,4,18,75.8,Moodle,2.43,Sí,Sí
+21,Masculino,Psicología,4,16,97.3,Microsoft Teams,2.46,No,Sí
+30,Masculino,Arquitectura,8,17,59.8,Microsoft Teams,1.99,Sí,Sí
+19,Femenino,Arquitectura,8,15,84.4,Blackboard,2.63,Sí,Sí
+21,Masculino,Ingeniería Industrial,8,17,67.2,Microsoft Teams,1.93,Sí,Sí
+21,Masculino,Medicina,4,21,94.5,Blackboard,2.61,No,Sí
+35,Femenino,Ingeniería Industrial,5,20,77.7,Zoom,2.21,No,Sí
+30,Masculino,Ingeniería en Sistemas,7,13,78.1,Zoom,1.74,No,Sí
+20,Femenino,Mercadotecnia,8,24,100,Google Classroom,3.32,Sí,Sí
+29,Femenino,Ingeniería Industrial,5,19,61.9,Blackboard,1.87,No,Sí
+26,Masculino,Contaduría Pública,6,26,81.2,Blackboard,2.54,Sí,Sí
+34,Masculino,Ingeniería Industrial,8,28,75.3,Moodle,2.91,Sí,Sí
+24,Femenino,Ingeniería Industrial,7,7,86,Canvas,2.03,No,Sí
+24,Femenino,Mercadotecnia,6,11,100,Microsoft Teams,2.33,Sí,Sí
+23,Masculino,Medicina,6,23,68.9,Moodle,2.64,Sí,Sí
+24,No binario,Derecho,7,6,60,Blackboard,1.5,Sí,Sí
+30,Masculino,Contaduría Pública,8,27,65.9,Moodle,1.86,Sí,Sí
+35,Femenino,Ingeniería Industrial,4,15,74.5,Google Classroom,2.56,Sí,Sí
+22,No binario,Psicología,7,22,79,Canvas,2.31,No,Sí
+17,Masculino,Mercadotecnia,7,17,79.7,Blackboard,2.13,No,Sí
+31,Masculino,Psicología,7,8,100,Blackboard,2.14,Sí,Sí
+17,Masculino,Mercadotecnia,6,25,100,Microsoft Teams,3.13,No,No
+33,Masculino,Psicología,5,37,97.5,Canvas,3.51,Sí,Sí
+17,Masculino,Mercadotecnia,4,14,100,Google Classroom,2.92,Sí,Sí
+31,Femenino,Turismo,8,15,90.4,Zoom,2.97,No,Sí
+18,Masculino,Psicología,8,3,94.6,Moodle,1.82,Sí,Sí
+30,Femenino,Medicina,5,27,90.1,Microsoft Teams,2.72,No,Sí
+24,No binario,Comunicación Social,7,24,87.6,Blackboard,2.66,Sí,No
+24,Femenino,Contaduría Pública,4,5,83.9,Zoom,2.03,No,Sí
+35,Femenino,Ingeniería en Sistemas,8,3,72,Google Classroom,1.54,No,Sí
+23,Masculino,Derecho,8,4,59.3,Canvas,1.5,Sí,No
+35,Femenino,Turismo,7,22,76,Moodle,2.11,Sí,Sí
+22,Femenino,Enfermería,5,23,86.5,Microsoft Teams,2.09,No,Sí
+22,Masculino,Administración de Empresas,4,11,79.1,Blackboard,1.77,Sí,Sí
+19,Masculino,Ingeniería Industrial,5,21,62,Blackboard,2.55,Sí,Sí
+23,Femenino,Ingeniería en Sistemas,5,19,75.5,Zoom,2.49,No,Sí
+35,Masculino,Administración de Empresas,4,15,74.7,Zoom,2.1,Sí,Sí
+24,Masculino,Contaduría Pública,4,24,77.1,Moodle,2.83,No,No
+26,Masculino,Ingeniería en Sistemas,8,9,85.4,Canvas,1.72,Sí,Sí
+31,Masculino,Psicología,8,26,88.6,Google Classroom,2.94,Sí,Sí
+31,Femenino,Psicología,4,12,70.5,Canvas,1.5,No,Sí
+17,Femenino,Enfermería,6,30,92.7,Canvas,3.29,No,Sí
+23,Femenino,Administración de Empresas,8,10,95,Canvas,2.42,Sí,Sí
+20,Masculino,Derecho,6,15,82.8,Moodle,2.41,No,Sí
+22,Masculino,Contaduría Pública,4,18,88,Moodle,2.91,Sí,Sí
+17,Femenino,Psicología,8,18,92.8,Google Classroom,2.89,No,Sí
+21,Masculino,Ingeniería Industrial,5,21,61.5,Canvas,1.8,Sí,Sí
+17,Masculino,Comunicación Social,4,9,93.8,Moodle,2.63,No,Sí
+20,Femenino,Medicina,7,17,66.1,Google Classroom,2.01,No,Sí
+18,Masculino,Medicina,6,18,67.6,Blackboard,1.56,No,Sí
+26,Femenino,Mercadotecnia,4,14,80.9,Google Classroom,2.21,No,Sí
+21,Masculino,Derecho,4,20,45.8,Canvas,2,No,Sí
+26,Masculino,Medicina,8,8,80.6,Microsoft Teams,1.66,No,Sí
+17,Masculino,Mercadotecnia,8,15,92.7,Canvas,2.92,No,Sí
+22,No binario,Administración de Empresas,8,12,53.3,Microsoft Teams,1.5,No,Sí
+29,Femenino,Psicología,7,15,94.3,Google Classroom,2.41,Sí,Sí
+31,Femenino,Turismo,8,28,67.5,Blackboard,2.4,Sí,Sí
+20,Femenino,Psicología,4,28,81.1,Blackboard,2.35,No,Sí
+29,Masculino,Turismo,8,26,69.7,Moodle,2.25,Sí,Sí
+31,Femenino,Ingeniería Industrial,5,14,86.6,Blackboard,2.14,Sí,Sí
+24,Femenino,Comunicación Social,8,24,93.4,Zoom,2.9,No,No
+21,Femenino,Ingeniería en Sistemas,7,18,87.7,Google Classroom,1.65,Sí,Sí
+31,Masculino,Medicina,5,18,77.9,Moodle,2.57,Sí,No
+20,Femenino,Administración de Empresas,4,17,70.9,Blackboard,2.39,No,Sí
+28,Masculino,Turismo,4,30,77,Google Classroom,3.23,Sí,Sí
+29,Masculino,Arquitectura,6,27,87.8,Canvas,2.51,No,Sí
+18,Femenino,Medicina,5,23,88.4,Blackboard,2.7,No,Sí
+35,Femenino,Derecho,6,16,86.3,Microsoft Teams,2.72,Sí,Sí
+35,Masculino,Ingeniería Industrial,5,18,58.8,Google Classroom,2.28,Sí,Sí
+20,Masculino,Ingeniería en Sistemas,5,21,77.7,Moodle,2.93,No,Sí
+20,Femenino,Medicina,7,14,68.5,Canvas,2.02,No,Sí
+27,Femenino,Administración de Empresas,6,24,88,Zoom,2.81,Sí,Sí
+21,Femenino,Medicina,7,11,66.5,Canvas,1.5,Sí,Sí
+27,Femenino,Turismo,5,20,84.8,Blackboard,2.9,Sí,Sí
+26,Femenino,Derecho,4,3,73.8,Microsoft Teams,1.5,Sí,Sí
+24,Masculino,Arquitectura,5,14,49.8,Canvas,1.63,No,Sí
+22,Femenino,Contaduría Pública,7,32,92,Zoom,3.25,No,Sí
+22,Masculino,Enfermería,6,25,77.6,Moodle,1.94,Sí,Sí
+24,Masculino,Arquitectura,6,28,97.1,Google Classroom,2.94,Sí,Sí
+31,Femenino,Mercadotecnia,7,13,53,Microsoft Teams,1.77,Sí,Sí
+30,Masculino,Medicina,6,18,73.6,Zoom,2.26,Sí,Sí
+27,Femenino,Psicología,8,26,74.8,Blackboard,2.79,Sí,Sí
+28,Femenino,Comunicación Social,4,22,82.1,Blackboard,2.85,Sí,No
+29,Femenino,Psicología,4,21,58.1,Blackboard,1.85,Sí,Sí
+24,Femenino,Arquitectura,4,29,86.2,Microsoft Teams,2.86,Sí,Sí
+34,Femenino,Turismo,6,10,100,Canvas,2.4,No,No
+17,Femenino,Psicología,6,16,85.1,Microsoft Teams,2.65,No,No
+31,Femenino,Administración de Empresas,5,5,79.4,Blackboard,1.74,Sí,Sí
+24,Masculino,Psicología,5,10,57.3,Zoom,1.5,Sí,Sí
+27,Femenino,Ingeniería en Sistemas,4,25,66.4,Google Classroom,2.38,Sí,Sí
+28,Masculino,Contaduría Pública,8,11,77.2,Google Classroom,2.25,Sí,Sí
+28,Femenino,Medicina,5,23,70.1,Microsoft Teams,2.83,Sí,Sí
+20,Femenino,Ingeniería Industrial,5,29,93.4,Blackboard,3.24,Sí,Sí
+32,Femenino,Psicología,6,16,86,Moodle,1.99,No,No
+20,Masculino,Derecho,8,21,100,Microsoft Teams,2.81,Sí,Sí
+21,Masculino,Ingeniería Industrial,4,23,63.3,Blackboard,2.43,No,Sí
+21,Femenino,Contaduría Pública,5,9,78.5,Canvas,2.23,No,Sí
+24,Masculino,Turismo,8,13,57.2,Google Classroom,1.87,No,Sí
+26,Masculino,Contaduría Pública,8,10,44.7,Google Classroom,1.5,Sí,Sí
+33,Masculino,Psicología,4,14,88.8,Google Classroom,2.66,No,Sí
+25,Femenino,Contaduría Pública,8,23,85.4,Moodle,2.54,No,Sí
+35,Femenino,Ingeniería Industrial,8,13,65.2,Blackboard,1.94,Sí,Sí
+30,Masculino,Comunicación Social,8,17,79.4,Blackboard,2.57,Sí,Sí
+24,Masculino,Turismo,5,10,68.6,Blackboard,1.99,Sí,Sí
+25,Masculino,Psicología,4,26,70.6,Blackboard,2.75,No,Sí
+27,Femenino,Administración de Empresas,8,14,73.2,Moodle,2.26,No,Sí
+17,Femenino,Arquitectura,8,28,64.6,Zoom,2.22,No,Sí
+30,Masculino,Ingeniería en Sistemas,5,18,67.3,Microsoft Teams,2.15,No,Sí
+21,Masculino,Enfermería,4,8,67.7,Microsoft Teams,1.5,Sí,Sí
+30,Masculino,Mercadotecnia,6,16,84.3,Blackboard,2.31,Sí,Sí
+20,Femenino,Turismo,5,10,36.4,Canvas,1.5,No,Sí
+17,Femenino,Contaduría Pública,4,22,74.6,Google Classroom,2.57,No,Sí
+35,Masculino,Administración de Empresas,8,16,61.7,Moodle,1.5,Sí,Sí
+24,Masculino,Medicina,4,19,62.2,Canvas,2.27,No,Sí
+31,Masculino,Medicina,4,15,70.1,Canvas,2.07,No,Sí
+31,Femenino,Mercadotecnia,4,14,77.8,Blackboard,2.75,No,Sí
+25,Masculino,Turismo,6,11,74.8,Moodle,1.92,No,Sí
+25,Femenino,Turismo,4,23,62,Microsoft Teams,2.2,No,No
+26,Femenino,Ingeniería en Sistemas,6,16,88.8,Google Classroom,2.69,Sí,Sí
+25,Masculino,Contaduría Pública,8,15,64.5,Microsoft Teams,1.91,No,Sí
+19,Masculino,Comunicación Social,6,16,67,Canvas,2.13,Sí,Sí
+27,Masculino,Mercadotecnia,8,13,82.3,Google Classroom,2.52,No,No
+22,Femenino,Ingeniería en Sistemas,8,15,82.8,Zoom,2.24,Sí,Sí
+18,Femenino,Contaduría Pública,6,19,68.8,Canvas,2.58,No,Sí
+23,Femenino,Ingeniería Industrial,5,10,34,Microsoft Teams,1.5,Sí,No
+34,Femenino,Administración de Empresas,7,11,64.7,Microsoft Teams,2.26,Sí,No
+18,Masculino,Arquitectura,4,27,80.4,Blackboard,2.27,No,Sí
+33,Femenino,Comunicación Social,7,15,88.3,Microsoft Teams,2.84,No,Sí
+27,Femenino,Ingeniería Industrial,4,14,76.8,Moodle,1.6,No,Sí
+28,Masculino,Ingeniería Industrial,4,8,70.8,Canvas,2.37,Sí,Sí
+35,No binario,Enfermería,8,23,100,Google Classroom,3.07,No,Sí
+23,Femenino,Medicina,4,10,72.4,Microsoft Teams,1.61,No,Sí
+22,Femenino,Derecho,4,17,87.2,Blackboard,3.06,No,Sí
+17,Femenino,Administración de Empresas,6,6,58,Blackboard,1.5,Sí,Sí
+33,Femenino,Medicina,7,23,61.6,Microsoft Teams,2.19,No,Sí
+27,Femenino,Psicología,6,26,87.7,Moodle,3.69,Sí,No
+34,Masculino,Ingeniería Industrial,4,21,93.7,Blackboard,2.93,No,Sí
+33,Masculino,Derecho,8,7,72.2,Google Classroom,1.5,No,Sí
+23,Femenino,Turismo,6,23,50.3,Canvas,1.95,No,Sí
+33,Masculino,Medicina,6,12,75.5,Zoom,1.93,No,No
+25,Masculino,Ingeniería en Sistemas,5,9,80.8,Moodle,2.07,Sí,Sí
+33,Masculino,Comunicación Social,4,15,79.5,Blackboard,2.24,Sí,Sí
+24,Masculino,Medicina,8,15,69.5,Canvas,2.22,Sí,Sí
+33,Femenino,Enfermería,6,14,75.7,Zoom,1.68,Sí,Sí
+23,Femenino,Arquitectura,6,26,66.8,Microsoft Teams,2.33,No,No
+17,Masculino,Ingeniería en Sistemas,8,32,61.3,Microsoft Teams,2.74,No,Sí
+29,Masculino,Administración de Empresas,4,8,89.3,Google Classroom,1.91,No,Sí
+35,Masculino,Administración de Empresas,5,13,79.5,Zoom,2.5,Sí,Sí
+35,Femenino,Administración de Empresas,6,18,75.7,Microsoft Teams,2.09,Sí,Sí
+33,Femenino,Administración de Empresas,5,15,70.4,Microsoft Teams,2.12,Sí,Sí
+29,Masculino,Arquitectura,7,20,75.3,Blackboard,2.36,Sí,Sí
+32,Femenino,Medicina,4,24,80.4,Google Classroom,2.37,Sí,Sí
+24,Femenino,Contaduría Pública,7,23,100,Canvas,3.04,No,Sí
+35,Femenino,Medicina,7,22,87.8,Microsoft Teams,2.34,Sí,Sí
+34,Femenino,Ingeniería Industrial,7,29,68,Moodle,2.52,No,Sí
+17,Masculino,Psicología,4,6,68.2,Moodle,1.64,Sí,Sí
+30,Femenino,Comunicación Social,4,28,65.8,Canvas,2.13,No,Sí
+35,Femenino,Derecho,8,15,75,Zoom,2.35,No,Sí
+31,Femenino,Contaduría Pública,5,23,65.8,Google Classroom,2.42,No,Sí
+34,Femenino,Contaduría Pública,5,10,85.1,Blackboard,2.31,No,No
+18,Femenino,Ingeniería Industrial,8,11,38.3,Moodle,1.5,No,Sí
+33,Femenino,Medicina,8,22,86,Moodle,2.35,No,Sí
+34,Masculino,Contaduría Pública,7,4,82.1,Canvas,1.82,No,No
+22,Femenino,Mercadotecnia,8,24,96.9,Zoom,3.19,Sí,No
+35,No binario,Mercadotecnia,6,26,91.2,Zoom,2.62,Sí,Sí
+20,Femenino,Psicología,5,19,67.7,Canvas,1.87,Sí,Sí
+17,Masculino,Turismo,8,18,89.5,Moodle,2.52,No,Sí
+24,Masculino,Derecho,6,12,75.5,Google Classroom,1.93,No,Sí
+23,Masculino,Enfermería,6,22,49,Moodle,1.95,No,Sí
+19,Femenino,Arquitectura,6,20,80.4,Zoom,2.41,No,Sí
+26,Femenino,Medicina,6,11,68.6,Blackboard,1.91,Sí,Sí

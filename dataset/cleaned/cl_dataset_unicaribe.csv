@@ -1,0 +1,1001 @@
+edad,genero,carrera,materias_inscritas,horas_estudio_semana,asistencia,uso_plataformas,gpa,trabajo,internet
+23,M,Medicina,4,11,72.1,Microsoft Teams,2.57,0,1
+31,F,Comunicación Social,6,28,75.6,Moodle,3.07,0,0
+27,M,Arquitectura,6,14,72.1,Google Classroom,2.13,0,1
+24,M,Turismo,5,17,57.6,Zoom,2.07,1,1
+23,M,Contaduría Pública,5,22,88.5,Blackboard,3.05,0,1
+35,F,Ingeniería Industrial,4,16,74.3,Blackboard,2.4,1,1
+27,F,Psicología,6,25,78.2,Blackboard,2.58,1,1
+27,M,Administración de Empresas,4,15,69.3,Microsoft Teams,1.8,1,0
+20,M,Arquitectura,7,15,85.1,Zoom,2.33,0,1
+24,M,Medicina,4,25,81.0,Microsoft Teams,3.03,0,1
+19,F,Contaduría Pública,8,12,96.2,Google Classroom,2.38,1,1
+18,M,Medicina,4,19,85.2,Moodle,2.22,0,1
+28,M,Comunicación Social,8,6,75.0,Blackboard,1.5,1,0
+22,F,Comunicación Social,8,30,66.9,Zoom,2.64,1,1
+18,M,Turismo,8,26,91.0,Blackboard,2.67,0,1
+17,F,Enfermería,7,37,73.8,Microsoft Teams,2.99,0,1
+28,M,Psicología,4,27,75.4,Canvas,3.14,0,1
+28,M,Arquitectura,4,10,75.4,Google Classroom,1.94,1,1
+33,M,Mercadotecnia,7,22,72.0,Moodle,2.19,1,1
+26,F,Mercadotecnia,6,11,75.7,Google Classroom,2.1,0,1
+32,F,Arquitectura,5,29,100.0,Canvas,3.87,1,1
+31,F,Administración de Empresas,4,10,62.3,Moodle,1.65,1,1
+31,M,Turismo,5,9,65.8,Canvas,1.5,0,0
+35,F,Psicología,7,6,98.8,Google Classroom,2.44,0,0
+28,M,Medicina,6,14,72.4,Microsoft Teams,2.17,0,1
+19,M,Administración de Empresas,6,13,71.2,Google Classroom,2.03,0,1
+21,F,Ingeniería en Sistemas,6,9,93.5,Google Classroom,2.2,0,1
+35,M,Arquitectura,7,31,56.7,Google Classroom,2.27,1,1
+23,M,Medicina,8,21,90.3,Zoom,3.19,1,1
+25,M,Mercadotecnia,8,20,78.7,Canvas,1.91,0,1
+23,M,Derecho,5,29,85.0,Canvas,2.9,1,1
+34,M,Ingeniería Industrial,8,19,84.7,Blackboard,2.44,1,1
+20,F,Enfermería,8,12,68.6,Canvas,2.16,0,1
+30,M,Mercadotecnia,6,6,93.8,Blackboard,2.51,1,1
+34,F,Psicología,6,12,69.7,Zoom,1.86,0,1
+25,F,Comunicación Social,5,28,84.1,Microsoft Teams,2.98,0,1
+18,M,Ingeniería Industrial,4,9,96.6,Blackboard,2.42,0,1
+31,M,Ingeniería Industrial,5,20,98.7,Google Classroom,3.18,1,1
+23,M,Derecho,5,25,74.0,Microsoft Teams,2.9,0,1
+28,F,Enfermería,7,19,84.9,Zoom,2.38,1,1
+24,M,Enfermería,7,20,72.6,Canvas,2.47,0,1
+31,F,Ingeniería en Sistemas,5,22,100.0,Blackboard,3.09,1,1
+19,M,Ingeniería en Sistemas,5,20,89.7,Google Classroom,2.65,0,1
+30,F,Contaduría Pública,5,29,79.3,Moodle,2.99,1,1
+33,M,Mercadotecnia,8,10,82.7,Moodle,2.1,0,0
+20,M,Mercadotecnia,7,19,84.1,Microsoft Teams,2.57,0,1
+34,F,Mercadotecnia,5,5,84.6,Canvas,1.51,0,1
+24,F,Contaduría Pública,6,3,74.4,Moodle,1.5,1,0
+20,M,Turismo,6,17,72.1,Microsoft Teams,2.44,0,1
+18,F,Administración de Empresas,8,21,75.7,Zoom,2.08,0,1
+22,F,Enfermería,8,29,60.9,Microsoft Teams,2.65,1,1
+26,F,Derecho,4,34,88.8,Microsoft Teams,3.26,1,1
+20,F,Psicología,4,27,66.0,Microsoft Teams,2.83,0,1
+34,M,Enfermería,4,23,62.1,Google Classroom,2.46,1,1
+28,M,Ingeniería en Sistemas,8,19,77.8,Microsoft Teams,2.26,1,1
+18,M,Ingeniería Industrial,8,7,76.0,Blackboard,1.76,0,1
+26,F,Medicina,8,16,81.7,Microsoft Teams,1.75,1,1
+20,F,Comunicación Social,6,27,69.5,Google Classroom,2.55,1,1
+30,M,Contaduría Pública,8,24,72.1,Google Classroom,2.13,1,1
+32,M,Arquitectura,6,8,88.4,Zoom,2.06,0,1
+31,F,Medicina,4,22,87.5,Canvas,2.54,1,1
+24,No binario,Psicología,4,21,86.8,Moodle,2.41,0,1
+30,F,Mercadotecnia,4,20,78.5,Moodle,2.82,1,1
+24,M,Ingeniería en Sistemas,5,17,80.5,Microsoft Teams,1.98,0,1
+32,M,Ingeniería en Sistemas,5,22,81.5,Zoom,2.32,1,1
+29,M,Ingeniería en Sistemas,7,22,68.2,Microsoft Teams,2.13,0,1
+34,F,Mercadotecnia,7,13,100.0,Moodle,2.43,1,1
+31,M,Arquitectura,7,21,98.0,Google Classroom,2.63,0,1
+29,F,Contaduría Pública,5,16,89.9,Canvas,2.4,1,1
+25,M,Medicina,5,7,71.6,Zoom,1.83,0,1
+31,F,Mercadotecnia,7,14,86.1,Google Classroom,2.55,1,0
+29,F,Psicología,7,7,92.7,Canvas,2.35,1,1
+17,F,Contaduría Pública,8,24,59.7,Zoom,1.69,1,1
+23,M,Psicología,7,20,100.0,Zoom,3.0,0,1
+25,M,Contaduría Pública,8,15,51.9,Moodle,1.84,0,1
+17,M,Arquitectura,6,27,88.6,Google Classroom,2.77,0,1
+28,F,Comunicación Social,5,18,99.8,Zoom,3.3,1,0
+24,F,Psicología,7,7,76.3,Blackboard,2.16,1,1
+27,F,Mercadotecnia,5,14,75.7,Zoom,2.08,0,1
+35,F,Contaduría Pública,5,29,88.0,Canvas,2.87,1,1
+33,F,Ingeniería en Sistemas,5,13,100.0,Moodle,3.07,0,1
+24,M,Turismo,6,19,73.8,Microsoft Teams,2.31,0,1
+19,F,Enfermería,4,23,66.3,Moodle,2.37,0,1
+19,M,Ingeniería en Sistemas,7,22,71.6,Microsoft Teams,2.43,0,1
+17,M,Administración de Empresas,4,35,54.7,Google Classroom,3.34,0,1
+21,F,Comunicación Social,4,9,91.5,Google Classroom,2.17,1,1
+26,M,Comunicación Social,4,10,70.3,Zoom,1.84,0,1
+23,M,Ingeniería en Sistemas,5,9,74.9,Blackboard,1.65,1,1
+25,F,Medicina,8,15,91.6,Google Classroom,2.38,1,1
+23,M,Arquitectura,5,25,72.3,Zoom,2.25,1,1
+25,F,Psicología,5,10,89.4,Moodle,1.99,1,0
+24,M,Mercadotecnia,4,25,62.4,Google Classroom,1.82,0,1
+28,M,Comunicación Social,5,18,92.4,Moodle,2.91,1,1
+18,M,Ingeniería en Sistemas,4,10,83.1,Moodle,2.15,0,0
+17,M,Ingeniería en Sistemas,8,5,76.7,Blackboard,1.83,0,0
+32,F,Arquitectura,7,7,80.0,Google Classroom,1.9,0,1
+21,M,Arquitectura,4,13,58.7,Moodle,1.77,1,1
+19,F,Derecho,8,16,79.6,Blackboard,2.79,0,1
+28,F,Derecho,7,27,75.9,Blackboard,2.49,0,1
+24,F,Medicina,6,23,59.1,Google Classroom,2.29,1,1
+19,F,Turismo,4,12,67.9,Blackboard,1.97,0,1
+17,F,Turismo,4,20,76.1,Google Classroom,2.75,0,1
+19,M,Medicina,6,29,68.9,Google Classroom,2.8,1,1
+21,M,Administración de Empresas,6,31,41.8,Microsoft Teams,2.36,0,0
+31,M,Medicina,4,15,94.1,Moodle,2.17,1,1
+30,F,Contaduría Pública,6,24,75.9,Canvas,2.34,1,1
+19,M,Arquitectura,5,27,43.9,Google Classroom,1.73,0,1
+17,F,Turismo,7,7,100.0,Moodle,1.57,0,0
+21,F,Mercadotecnia,7,14,96.6,Blackboard,2.67,0,1
+30,M,Contaduría Pública,7,33,72.8,Zoom,2.84,1,1
+23,F,Psicología,5,15,65.4,Google Classroom,2.09,1,1
+25,M,Ingeniería en Sistemas,6,3,84.0,Blackboard,1.82,1,0
+31,M,Medicina,8,17,81.0,Blackboard,2.45,1,1
+31,F,Ingeniería en Sistemas,6,25,86.1,Blackboard,3.23,0,1
+26,F,Comunicación Social,4,18,65.4,Blackboard,2.11,1,1
+29,F,Administración de Empresas,7,23,94.5,Blackboard,3.11,0,1
+35,M,Comunicación Social,6,24,70.9,Google Classroom,2.39,1,1
+23,M,Administración de Empresas,8,15,88.2,Canvas,2.68,1,0
+33,F,Derecho,4,14,66.0,Microsoft Teams,1.57,1,0
+20,F,Ingeniería en Sistemas,5,19,100.0,Blackboard,2.29,0,1
+21,F,Administración de Empresas,5,19,88.4,Blackboard,3.24,0,1
+23,M,Ingeniería Industrial,8,18,100.0,Microsoft Teams,3.35,0,1
+29,F,Turismo,4,18,90.4,Google Classroom,2.02,0,1
+31,M,Ingeniería Industrial,7,12,69.6,Moodle,1.91,0,1
+27,M,Ingeniería Industrial,6,23,90.4,Zoom,2.88,0,1
+20,F,Enfermería,4,22,91.5,Zoom,3.02,0,1
+29,M,Turismo,5,8,83.6,Moodle,2.55,1,1
+23,F,Contaduría Pública,8,15,87.5,Google Classroom,2.1,1,1
+35,M,Administración de Empresas,8,18,89.4,Zoom,2.29,0,1
+18,M,Administración de Empresas,6,14,63.1,Microsoft Teams,1.88,0,1
+26,F,Contaduría Pública,8,22,62.0,Moodle,1.93,0,1
+29,F,Ingeniería en Sistemas,8,17,66.1,Canvas,1.5,1,1
+22,F,Ingeniería en Sistemas,4,19,79.9,Google Classroom,2.37,0,0
+28,F,Ingeniería Industrial,7,15,74.7,Moodle,2.42,0,1
+28,F,Contaduría Pública,6,4,63.4,Zoom,1.5,1,0
+27,F,Turismo,4,3,89.6,Google Classroom,2.11,1,0
+23,F,Ingeniería Industrial,7,22,82.2,Microsoft Teams,2.77,0,1
+17,M,Comunicación Social,4,19,80.5,Google Classroom,2.15,0,1
+17,F,Enfermería,4,21,74.1,Google Classroom,2.44,0,1
+29,M,Mercadotecnia,8,18,72.3,Microsoft Teams,1.79,0,0
+25,No binario,Psicología,7,19,65.4,Blackboard,2.0,1,0
+19,F,Enfermería,6,24,92.0,Microsoft Teams,2.92,0,1
+23,M,Ingeniería en Sistemas,6,21,67.4,Google Classroom,2.28,0,1
+22,F,Mercadotecnia,7,25,81.1,Microsoft Teams,2.35,1,1
+24,F,Derecho,8,19,100.0,Blackboard,2.52,1,1
+25,M,Medicina,5,15,73.0,Moodle,2.21,1,1
+21,F,Ingeniería Industrial,4,19,92.4,Microsoft Teams,2.94,0,1
+17,F,Administración de Empresas,8,12,86.5,Microsoft Teams,2.2,1,1
+35,M,Contaduría Pública,7,15,82.7,Google Classroom,2.24,0,1
+26,F,Contaduría Pública,4,19,84.5,Moodle,2.81,1,1
+28,M,Administración de Empresas,6,19,76.6,Canvas,2.14,1,1
+31,F,Ingeniería Industrial,5,17,78.5,Canvas,2.84,1,0
+25,No binario,Medicina,6,8,69.8,Zoom,1.5,1,1
+33,F,Psicología,7,22,78.6,Microsoft Teams,2.86,1,1
+33,F,Medicina,4,23,69.2,Microsoft Teams,2.57,1,1
+28,F,Mercadotecnia,7,29,93.1,Moodle,3.87,1,1
+23,F,Medicina,4,21,52.5,Blackboard,1.65,1,1
+18,M,Mercadotecnia,8,18,85.2,Canvas,1.8,1,1
+19,F,Medicina,5,10,83.0,Zoom,2.48,0,1
+33,M,Psicología,8,28,81.7,Moodle,2.44,1,1
+21,F,Psicología,8,19,93.4,Microsoft Teams,2.9,1,1
+33,M,Ingeniería en Sistemas,7,19,73.7,Canvas,2.67,0,1
+33,M,Administración de Empresas,5,16,81.8,Zoom,2.46,1,1
+33,M,Psicología,4,15,52.3,Google Classroom,1.78,0,1
+18,F,Mercadotecnia,4,22,71.8,Canvas,2.53,0,1
+18,M,Psicología,6,10,90.8,Zoom,2.51,1,1
+21,F,Ingeniería en Sistemas,4,29,57.9,Moodle,2.62,0,1
+17,M,Contaduría Pública,7,27,80.4,Google Classroom,2.44,0,1
+17,M,Mercadotecnia,8,15,67.8,Zoom,2.57,0,1
+35,F,Ingeniería en Sistemas,8,11,76.3,Zoom,2.03,1,1
+18,F,Comunicación Social,8,3,68.7,Microsoft Teams,1.66,0,1
+28,M,Comunicación Social,5,9,59.3,Blackboard,1.8,0,1
+22,F,Derecho,4,23,83.8,Canvas,3.05,1,0
+20,F,Medicina,7,20,77.3,Microsoft Teams,2.75,0,0
+27,F,Administración de Empresas,5,21,87.2,Google Classroom,2.72,1,1
+33,M,Arquitectura,6,5,89.9,Blackboard,2.04,1,0
+22,M,Enfermería,7,15,96.4,Zoom,2.72,0,1
+21,F,Ingeniería en Sistemas,7,27,80.0,Microsoft Teams,3.13,0,1
+18,M,Contaduría Pública,7,17,97.0,Blackboard,2.36,1,1
+22,F,Enfermería,8,9,63.4,Canvas,1.86,1,0
+27,F,Contaduría Pública,7,17,91.6,Google Classroom,2.32,0,1
+32,F,Turismo,4,12,84.9,Moodle,2.79,0,1
+32,F,Turismo,7,20,81.5,Microsoft Teams,2.63,1,1
+17,No binario,Turismo,8,18,84.7,Google Classroom,2.37,0,1
+25,M,Enfermería,7,21,63.6,Moodle,2.33,1,1
+22,F,Ingeniería en Sistemas,6,9,60.0,Microsoft Teams,1.6,1,1
+32,M,Arquitectura,6,14,100.0,Google Classroom,2.57,1,1
+19,F,Enfermería,8,25,75.5,Google Classroom,2.08,0,1
+20,F,Ingeniería en Sistemas,4,8,75.3,Blackboard,1.55,1,1
+35,F,Psicología,4,10,61.5,Microsoft Teams,1.63,0,1
+19,No binario,Arquitectura,5,19,55.8,Google Classroom,1.5,0,1
+35,F,Turismo,8,20,76.7,Zoom,2.25,1,1
+23,M,Mercadotecnia,7,14,72.9,Microsoft Teams,1.93,1,0
+25,M,Contaduría Pública,8,16,78.0,Google Classroom,2.04,1,1
+17,F,Turismo,5,21,79.3,Blackboard,2.75,0,1
+24,M,Comunicación Social,8,23,100.0,Moodle,2.76,0,1
+23,M,Medicina,8,10,72.9,Moodle,1.93,1,1
+34,M,Comunicación Social,5,20,100.0,Zoom,2.78,1,0
+24,M,Turismo,4,28,100.0,Microsoft Teams,3.21,1,1
+17,M,Arquitectura,7,17,89.3,Blackboard,3.02,0,1
+27,M,Mercadotecnia,5,10,74.5,Google Classroom,1.99,1,1
+34,M,Contaduría Pública,6,10,57.6,Google Classroom,1.71,1,1
+26,M,Mercadotecnia,4,16,85.2,Moodle,2.19,1,1
+19,No binario,Enfermería,6,25,93.3,Blackboard,3.16,0,1
+23,M,Contaduría Pública,4,17,100.0,Zoom,2.93,0,1
+32,M,Turismo,7,19,63.8,Moodle,2.27,0,1
+32,F,Enfermería,7,11,74.3,Moodle,1.61,1,1
+33,M,Ingeniería en Sistemas,8,24,63.8,Zoom,2.17,1,1
+18,F,Arquitectura,6,9,68.5,Microsoft Teams,2.2,1,1
+17,F,Ingeniería Industrial,4,14,88.0,Google Classroom,2.18,0,1
+32,M,Ingeniería en Sistemas,7,22,67.8,Microsoft Teams,2.8,1,1
+28,M,Derecho,5,3,65.6,Blackboard,1.5,1,1
+21,F,Mercadotecnia,7,19,90.0,Canvas,2.69,1,1
+21,F,Ingeniería Industrial,5,10,84.8,Canvas,2.08,1,1
+25,F,Enfermería,4,18,83.3,Canvas,2.21,1,1
+25,F,Psicología,7,15,68.2,Zoom,1.78,1,1
+19,M,Ingeniería en Sistemas,7,32,97.4,Moodle,3.16,0,1
+35,No binario,Derecho,4,15,78.2,Microsoft Teams,2.28,1,1
+32,M,Administración de Empresas,7,30,100.0,Google Classroom,3.6,1,1
+32,F,Ingeniería Industrial,5,22,80.4,Canvas,2.61,1,1
+19,F,Comunicación Social,7,12,43.0,Microsoft Teams,1.5,0,1
+17,F,Contaduría Pública,6,20,42.3,Canvas,2.1,0,1
+27,F,Derecho,8,15,87.4,Canvas,2.43,0,1
+33,M,Arquitectura,5,19,97.5,Google Classroom,2.63,1,1
+24,M,Ingeniería Industrial,6,13,66.2,Blackboard,1.6,0,0
+20,M,Ingeniería en Sistemas,4,29,100.0,Blackboard,3.67,0,1
+22,M,Arquitectura,5,24,100.0,Blackboard,2.97,1,1
+24,F,Comunicación Social,8,18,81.2,Zoom,2.25,0,1
+19,M,Psicología,8,30,86.1,Moodle,2.86,0,1
+32,M,Mercadotecnia,4,18,91.4,Zoom,2.99,1,1
+19,F,Mercadotecnia,4,25,100.0,Microsoft Teams,2.94,1,1
+34,F,Turismo,5,18,88.2,Zoom,2.86,1,0
+30,F,Arquitectura,7,20,80.8,Microsoft Teams,2.44,1,1
+34,No binario,Enfermería,4,17,88.1,Microsoft Teams,2.16,1,1
+18,M,Psicología,7,18,86.1,Moodle,2.42,0,1
+19,M,Mercadotecnia,6,19,91.9,Google Classroom,2.67,0,1
+32,F,Psicología,8,13,54.4,Moodle,1.63,1,1
+25,F,Derecho,7,15,82.7,Blackboard,2.28,0,1
+20,M,Psicología,8,16,84.9,Blackboard,2.31,0,1
+17,F,Medicina,7,19,76.9,Zoom,2.15,1,1
+20,M,Comunicación Social,6,17,89.8,Microsoft Teams,2.55,0,1
+17,M,Mercadotecnia,4,26,100.0,Canvas,3.32,0,1
+30,F,Psicología,6,23,80.1,Canvas,2.19,1,1
+32,F,Arquitectura,4,16,88.4,Microsoft Teams,2.87,0,0
+24,F,Administración de Empresas,4,27,100.0,Moodle,2.09,0,1
+23,M,Medicina,8,31,80.4,Google Classroom,3.01,0,1
+19,F,Medicina,6,3,64.7,Moodle,1.57,0,1
+33,M,Enfermería,7,24,87.2,Microsoft Teams,2.63,0,1
+17,M,Psicología,6,13,45.0,Microsoft Teams,1.5,0,0
+32,F,Turismo,8,23,43.5,Google Classroom,1.86,0,1
+28,F,Enfermería,4,26,83.0,Zoom,2.87,1,1
+35,F,Enfermería,8,11,42.8,Zoom,1.5,1,1
+30,F,Administración de Empresas,5,5,58.3,Google Classroom,1.5,1,0
+22,F,Derecho,5,23,72.3,Zoom,2.76,1,1
+22,F,Psicología,7,18,67.2,Canvas,2.18,0,1
+29,M,Ingeniería en Sistemas,8,6,75.8,Zoom,1.5,1,1
+35,M,Mercadotecnia,7,35,94.7,Zoom,3.58,1,0
+24,M,Enfermería,7,22,81.6,Zoom,2.33,0,1
+18,M,Comunicación Social,5,22,65.4,Canvas,2.05,0,1
+17,F,Contaduría Pública,7,27,98.3,Zoom,3.23,1,1
+31,F,Comunicación Social,5,13,56.6,Blackboard,1.74,1,1
+17,M,Administración de Empresas,4,18,81.3,Canvas,2.31,0,1
+21,M,Administración de Empresas,8,8,54.9,Google Classroom,1.5,1,0
+32,F,Arquitectura,7,13,81.8,Moodle,2.14,0,1
+35,M,Derecho,5,20,73.2,Google Classroom,2.12,1,0
+20,F,Turismo,6,6,94.2,Moodle,2.48,0,1
+19,F,Mercadotecnia,7,13,88.8,Google Classroom,1.88,0,1
+33,F,Ingeniería Industrial,4,11,69.2,Blackboard,1.8,1,1
+33,F,Enfermería,4,18,66.3,Moodle,1.69,1,1
+28,F,Comunicación Social,6,22,73.3,Moodle,2.72,1,1
+30,M,Contaduría Pública,5,23,100.0,Microsoft Teams,2.95,1,1
+22,F,Administración de Empresas,7,24,100.0,Moodle,2.75,0,1
+19,F,Administración de Empresas,5,27,63.5,Moodle,2.68,1,1
+25,M,Derecho,4,22,90.0,Microsoft Teams,2.09,1,0
+21,F,Contaduría Pública,5,31,52.0,Zoom,2.5,0,1
+33,F,Contaduría Pública,4,18,71.3,Zoom,2.57,1,1
+30,F,Derecho,5,16,64.1,Microsoft Teams,2.05,1,1
+19,F,Administración de Empresas,6,22,94.0,Canvas,2.71,0,1
+17,F,Mercadotecnia,8,16,58.6,Moodle,1.51,0,1
+17,F,Psicología,6,30,84.4,Moodle,3.35,1,0
+19,F,Psicología,6,25,78.0,Microsoft Teams,2.95,0,1
+34,F,Derecho,8,23,75.4,Microsoft Teams,2.34,1,1
+26,F,Contaduría Pública,8,18,100.0,Canvas,2.61,1,1
+19,F,Enfermería,7,15,100.0,Blackboard,3.02,0,1
+24,F,Derecho,7,22,75.8,Zoom,2.65,1,1
+30,M,Mercadotecnia,6,10,72.8,Google Classroom,1.5,0,1
+34,F,Derecho,6,28,55.4,Blackboard,2.29,0,1
+31,F,Medicina,4,16,77.9,Zoom,2.2,0,1
+18,M,Comunicación Social,4,20,100.0,Moodle,2.96,0,1
+26,F,Contaduría Pública,7,11,76.1,Blackboard,2.01,1,1
+18,M,Turismo,7,23,88.9,Microsoft Teams,2.65,0,1
+33,M,Arquitectura,4,14,57.0,Canvas,1.82,1,0
+24,F,Arquitectura,4,22,71.5,Zoom,2.27,1,1
+17,M,Contaduría Pública,5,23,84.9,Canvas,3.74,0,0
+25,F,Turismo,5,13,79.6,Zoom,2.21,1,1
+27,F,Ingeniería Industrial,4,10,90.4,Blackboard,2.25,1,1
+32,F,Mercadotecnia,5,28,69.0,Moodle,3.18,0,1
+23,M,Medicina,8,16,51.8,Google Classroom,1.5,1,1
+26,M,Medicina,7,19,94.8,Canvas,2.71,1,1
+19,F,Administración de Empresas,7,21,64.0,Canvas,1.93,1,1
+34,No binario,Comunicación Social,4,9,85.6,Google Classroom,2.3,1,1
+29,F,Psicología,6,21,84.8,Canvas,2.48,1,1
+23,M,Ingeniería en Sistemas,4,18,53.0,Canvas,2.03,1,1
+20,F,Mercadotecnia,5,13,93.7,Zoom,2.6,0,1
+29,F,Ingeniería en Sistemas,6,9,69.5,Zoom,2.02,0,1
+17,F,Ingeniería en Sistemas,5,22,78.8,Google Classroom,2.71,0,0
+24,M,Contaduría Pública,8,25,72.6,Moodle,2.5,0,1
+30,F,Arquitectura,5,19,100.0,Blackboard,2.43,0,1
+32,F,Arquitectura,8,7,98.2,Blackboard,2.58,1,1
+30,F,Psicología,8,10,50.8,Canvas,1.88,1,1
+28,M,Contaduría Pública,5,14,100.0,Moodle,2.34,1,1
+35,F,Ingeniería en Sistemas,5,28,67.8,Google Classroom,2.82,1,1
+31,F,Turismo,8,16,100.0,Google Classroom,2.36,0,1
+18,M,Ingeniería Industrial,6,14,74.2,Zoom,2.17,0,1
+18,F,Enfermería,8,6,72.9,Canvas,1.85,0,1
+35,F,Arquitectura,7,13,74.3,Microsoft Teams,1.94,1,1
+33,M,Mercadotecnia,8,9,72.0,Google Classroom,1.87,1,1
+26,M,Turismo,6,10,100.0,Canvas,2.7,0,1
+22,F,Mercadotecnia,7,18,76.9,Moodle,2.31,0,1
+31,M,Administración de Empresas,4,15,73.5,Zoom,1.93,0,1
+27,F,Derecho,4,29,79.2,Blackboard,2.51,0,0
+21,M,Enfermería,6,25,63.5,Moodle,2.26,0,1
+17,F,Arquitectura,8,13,100.0,Google Classroom,2.23,0,1
+24,M,Medicina,5,11,55.9,Google Classroom,1.5,0,1
+28,F,Arquitectura,6,27,68.8,Moodle,2.44,1,1
+28,No binario,Turismo,7,29,92.0,Google Classroom,3.37,1,0
+21,F,Administración de Empresas,7,3,78.6,Canvas,1.73,0,1
+23,F,Mercadotecnia,4,18,86.2,Google Classroom,3.29,1,1
+20,M,Ingeniería en Sistemas,7,16,100.0,Zoom,2.11,0,1
+22,F,Medicina,6,22,93.1,Canvas,2.93,1,1
+29,M,Contaduría Pública,7,31,80.1,Microsoft Teams,2.84,0,1
+31,M,Comunicación Social,6,14,100.0,Google Classroom,2.34,1,1
+19,M,Ingeniería en Sistemas,5,3,68.6,Google Classroom,1.5,0,1
+24,F,Comunicación Social,4,22,76.5,Zoom,2.48,0,1
+32,F,Enfermería,7,27,77.5,Zoom,3.07,1,1
+29,F,Ingeniería Industrial,6,15,76.5,Blackboard,2.22,1,1
+34,M,Derecho,8,13,62.0,Moodle,1.61,1,0
+26,M,Ingeniería Industrial,4,14,54.2,Moodle,1.81,0,1
+35,No binario,Medicina,5,23,84.3,Moodle,2.64,1,1
+33,M,Psicología,6,14,68.5,Zoom,1.65,1,1
+35,F,Medicina,5,20,100.0,Moodle,2.81,1,1
+21,M,Ingeniería Industrial,5,18,76.9,Moodle,2.41,0,1
+25,F,Arquitectura,7,17,74.2,Microsoft Teams,2.26,0,1
+28,F,Turismo,7,22,94.4,Moodle,2.96,1,1
+17,M,Mercadotecnia,6,14,84.0,Google Classroom,2.14,0,1
+17,M,Arquitectura,8,14,75.4,Blackboard,2.23,0,1
+31,F,Arquitectura,6,23,68.4,Zoom,2.43,1,1
+18,F,Turismo,8,11,100.0,Canvas,2.53,0,1
+32,M,Turismo,5,11,83.4,Blackboard,2.17,1,0
+24,F,Enfermería,4,9,94.3,Microsoft Teams,2.94,0,1
+29,M,Ingeniería en Sistemas,6,23,62.7,Zoom,2.61,1,1
+17,M,Psicología,6,17,69.3,Zoom,2.23,0,1
+32,F,Psicología,8,8,100.0,Google Classroom,2.12,0,1
+23,M,Arquitectura,5,23,99.0,Blackboard,2.91,0,1
+21,F,Comunicación Social,5,14,84.9,Blackboard,2.8,1,1
+19,M,Enfermería,8,11,72.3,Moodle,1.77,0,1
+28,M,Arquitectura,5,16,74.5,Google Classroom,2.15,0,1
+32,No binario,Derecho,7,28,67.9,Moodle,2.54,0,1
+35,M,Mercadotecnia,4,15,60.6,Moodle,1.99,1,0
+21,F,Turismo,6,22,91.9,Zoom,2.68,1,1
+30,M,Ingeniería en Sistemas,4,23,86.1,Blackboard,2.8,1,1
+21,M,Contaduría Pública,6,21,89.0,Moodle,2.59,0,1
+31,M,Turismo,7,26,72.9,Microsoft Teams,3.01,0,1
+33,F,Derecho,5,13,81.8,Microsoft Teams,2.01,1,1
+30,M,Comunicación Social,8,10,71.5,Blackboard,2.17,1,1
+21,F,Medicina,7,10,67.1,Microsoft Teams,1.61,0,1
+28,F,Medicina,4,16,100.0,Zoom,2.45,1,1
+32,F,Ingeniería Industrial,8,11,79.8,Google Classroom,1.87,1,0
+32,M,Derecho,5,19,85.6,Canvas,2.04,1,1
+23,F,Ingeniería Industrial,7,18,90.5,Moodle,2.74,1,1
+20,F,Arquitectura,8,25,80.0,Canvas,2.36,0,1
+17,F,Contaduría Pública,7,20,81.6,Google Classroom,2.41,0,1
+21,F,Administración de Empresas,7,15,61.7,Google Classroom,2.13,1,1
+26,F,Turismo,5,20,64.6,Zoom,2.4,1,1
+21,F,Administración de Empresas,6,10,63.8,Microsoft Teams,1.5,1,1
+20,M,Comunicación Social,8,17,87.1,Microsoft Teams,2.59,0,1
+18,M,Arquitectura,5,20,79.1,Google Classroom,2.81,1,1
+26,F,Psicología,7,18,64.6,Zoom,1.9,1,1
+35,F,Turismo,5,20,86.7,Zoom,2.78,0,1
+17,F,Ingeniería Industrial,6,13,86.2,Blackboard,1.96,1,1
+21,F,Psicología,8,26,67.6,Moodle,2.62,1,1
+29,M,Ingeniería en Sistemas,6,30,77.6,Microsoft Teams,2.92,1,1
+20,M,Contaduría Pública,4,6,86.2,Google Classroom,2.19,0,1
+32,F,Contaduría Pública,8,9,65.1,Blackboard,1.88,0,1
+32,M,Medicina,6,18,86.5,Canvas,2.12,1,1
+18,M,Enfermería,7,16,82.5,Microsoft Teams,2.4,0,1
+33,F,Turismo,8,31,63.0,Moodle,3.07,1,1
+28,M,Ingeniería Industrial,8,19,81.3,Zoom,1.81,0,0
+34,F,Comunicación Social,5,27,83.5,Google Classroom,3.16,1,1
+19,M,Administración de Empresas,7,3,68.6,Microsoft Teams,1.99,0,1
+17,F,Comunicación Social,4,23,69.8,Canvas,1.97,0,1
+17,M,Psicología,6,12,62.9,Moodle,1.59,0,1
+35,F,Psicología,5,12,71.3,Moodle,2.11,0,1
+27,M,Derecho,6,16,77.8,Blackboard,2.0,0,1
+21,M,Ingeniería en Sistemas,4,8,69.8,Microsoft Teams,2.16,1,1
+28,M,Turismo,4,21,55.7,Canvas,2.37,1,0
+19,F,Contaduría Pública,8,19,67.7,Moodle,1.78,1,0
+17,F,Mercadotecnia,4,19,71.7,Google Classroom,2.06,0,1
+17,M,Ingeniería Industrial,6,24,90.3,Moodle,3.1,0,1
+24,F,Comunicación Social,7,28,86.9,Canvas,3.2,1,1
+26,F,Ingeniería Industrial,7,15,90.5,Zoom,3.14,0,1
+27,F,Psicología,8,21,66.9,Zoom,2.01,0,1
+28,M,Enfermería,6,20,80.1,Blackboard,2.93,1,1
+29,F,Medicina,6,20,41.7,Microsoft Teams,1.5,0,1
+28,M,Administración de Empresas,4,20,84.4,Canvas,2.73,0,1
+30,M,Ingeniería en Sistemas,6,29,87.2,Blackboard,3.3,1,1
+18,No binario,Enfermería,5,14,72.7,Moodle,1.5,0,1
+35,M,Ingeniería en Sistemas,4,7,82.4,Moodle,2.23,0,1
+34,F,Derecho,5,13,55.3,Zoom,2.1,1,1
+19,F,Mercadotecnia,8,23,66.0,Blackboard,2.67,0,1
+33,F,Psicología,7,18,89.5,Zoom,3.21,1,1
+24,F,Medicina,8,14,85.7,Google Classroom,2.63,1,1
+26,M,Turismo,7,10,71.8,Zoom,1.72,0,1
+18,M,Enfermería,8,19,90.2,Google Classroom,3.02,0,1
+35,F,Ingeniería en Sistemas,6,22,80.1,Moodle,2.4,1,1
+25,M,Contaduría Pública,5,20,70.4,Blackboard,2.32,0,1
+23,M,Derecho,7,16,75.3,Google Classroom,2.47,0,1
+20,M,Contaduría Pública,4,19,71.2,Blackboard,2.4,0,1
+34,M,Medicina,5,18,60.2,Blackboard,2.41,1,1
+29,M,Turismo,4,19,96.9,Google Classroom,3.53,0,1
+27,M,Turismo,5,9,69.5,Microsoft Teams,1.5,0,1
+20,F,Enfermería,5,19,65.5,Zoom,2.06,1,0
+20,F,Ingeniería Industrial,8,14,55.1,Google Classroom,1.82,0,1
+26,F,Derecho,7,25,38.5,Moodle,1.74,0,1
+21,M,Turismo,7,18,88.5,Blackboard,2.55,0,1
+25,M,Turismo,5,23,89.9,Canvas,3.05,0,1
+19,M,Enfermería,6,15,95.9,Google Classroom,2.78,0,1
+33,F,Psicología,6,16,75.8,Zoom,2.3,1,1
+19,F,Arquitectura,4,28,73.2,Blackboard,2.75,0,1
+32,M,Derecho,4,21,70.4,Microsoft Teams,2.27,0,1
+20,F,Contaduría Pública,8,12,71.8,Moodle,2.39,0,1
+34,M,Medicina,5,24,94.8,Microsoft Teams,3.46,1,1
+33,F,Turismo,4,14,77.6,Canvas,2.48,1,0
+23,F,Turismo,4,19,83.7,Google Classroom,2.17,1,1
+21,F,Mercadotecnia,5,30,71.4,Blackboard,2.68,1,1
+28,F,Psicología,8,7,97.8,Google Classroom,2.33,1,1
+33,F,Turismo,4,16,49.4,Zoom,1.5,1,1
+29,M,Arquitectura,8,20,59.7,Google Classroom,2.11,1,0
+19,F,Mercadotecnia,7,23,83.7,Moodle,2.7,0,0
+25,M,Administración de Empresas,8,9,100.0,Canvas,2.73,1,1
+33,F,Psicología,6,7,74.6,Microsoft Teams,1.65,1,1
+33,F,Medicina,6,25,65.4,Canvas,2.77,1,1
+32,F,Ingeniería en Sistemas,8,12,93.0,Blackboard,2.11,1,1
+29,F,Derecho,6,12,82.9,Google Classroom,1.95,1,1
+35,F,Enfermería,7,28,97.4,Blackboard,3.08,1,0
+33,F,Medicina,5,18,58.6,Microsoft Teams,1.99,0,0
+20,F,Derecho,6,18,96.2,Blackboard,2.0,1,0
+28,M,Mercadotecnia,6,16,54.8,Zoom,1.94,0,1
+25,M,Ingeniería Industrial,8,9,73.7,Canvas,2.39,0,1
+35,M,Enfermería,7,22,84.2,Microsoft Teams,2.86,0,1
+28,M,Comunicación Social,5,20,80.8,Microsoft Teams,2.44,1,1
+25,F,Contaduría Pública,8,19,93.9,Microsoft Teams,2.4,0,1
+23,M,Administración de Empresas,8,17,50.6,Moodle,1.5,1,1
+30,No binario,Psicología,7,15,80.1,Canvas,1.78,1,1
+35,M,Turismo,5,24,96.0,Blackboard,2.95,0,1
+31,M,Ingeniería Industrial,7,17,78.9,Microsoft Teams,2.97,1,0
+32,F,Ingeniería Industrial,5,17,60.9,Canvas,1.5,1,1
+21,F,Medicina,7,21,93.1,Microsoft Teams,3.01,1,0
+19,F,Administración de Empresas,8,19,68.3,Zoom,2.01,0,1
+28,F,Ingeniería en Sistemas,8,29,65.6,Zoom,2.5,1,1
+20,F,Derecho,4,5,63.7,Zoom,1.5,0,1
+32,M,Derecho,6,20,75.0,Google Classroom,1.98,0,1
+23,No binario,Medicina,7,13,80.7,Microsoft Teams,2.23,0,0
+29,No binario,Arquitectura,4,11,59.0,Google Classroom,1.75,0,0
+26,F,Arquitectura,6,14,62.0,Canvas,2.06,1,1
+23,M,Turismo,7,18,67.6,Google Classroom,1.65,0,1
+30,F,Comunicación Social,5,18,63.7,Canvas,2.34,0,1
+21,M,Contaduría Pública,6,7,78.6,Canvas,2.15,0,1
+19,M,Enfermería,8,14,83.4,Canvas,2.42,0,0
+27,M,Ingeniería en Sistemas,4,19,81.4,Blackboard,2.35,1,1
+27,F,Turismo,6,11,81.4,Google Classroom,2.21,1,1
+34,F,Administración de Empresas,6,10,100.0,Blackboard,2.4,1,1
+31,F,Arquitectura,8,3,84.4,Microsoft Teams,2.11,1,1
+28,F,Comunicación Social,7,13,89.8,Google Classroom,2.26,0,1
+25,M,Comunicación Social,5,9,71.8,Microsoft Teams,1.87,1,0
+26,M,Medicina,8,11,92.2,Microsoft Teams,1.81,1,1
+28,M,Ingeniería en Sistemas,5,16,71.1,Canvas,2.22,1,1
+33,No binario,Mercadotecnia,7,13,84.2,Google Classroom,2.04,1,1
+22,M,Enfermería,6,9,57.4,Microsoft Teams,1.7,1,1
+23,F,Contaduría Pública,5,3,80.5,Zoom,1.98,0,1
+30,F,Psicología,4,20,63.4,Microsoft Teams,1.97,1,1
+29,M,Medicina,4,23,92.0,Zoom,2.87,0,1
+24,F,Enfermería,8,15,91.1,Google Classroom,2.54,1,1
+26,F,Psicología,7,16,71.0,Blackboard,2.24,1,1
+25,F,Psicología,8,18,100.0,Google Classroom,3.04,1,1
+34,F,Ingeniería en Sistemas,8,29,73.7,Blackboard,2.96,0,1
+18,M,Ingeniería en Sistemas,8,7,53.8,Blackboard,1.5,1,1
+21,M,Turismo,4,15,66.3,Google Classroom,2.47,0,1
+21,F,Administración de Empresas,4,5,62.3,Microsoft Teams,1.69,1,1
+22,F,Comunicación Social,8,20,83.7,Moodle,2.98,0,1
+35,M,Enfermería,4,16,59.5,Microsoft Teams,2.01,0,1
+24,F,Medicina,7,19,69.9,Microsoft Teams,2.36,1,0
+32,F,Turismo,8,19,82.7,Canvas,2.46,0,1
+29,F,Derecho,4,24,80.1,Canvas,2.54,1,1
+17,M,Medicina,5,21,77.8,Microsoft Teams,2.78,0,0
+33,F,Administración de Empresas,8,23,79.9,Zoom,2.7,1,1
+23,F,Contaduría Pública,8,10,72.4,Blackboard,1.85,1,1
+29,M,Ingeniería Industrial,7,26,53.9,Canvas,1.93,0,1
+20,M,Ingeniería Industrial,6,12,72.0,Microsoft Teams,2.44,0,1
+20,No binario,Comunicación Social,6,13,85.0,Moodle,2.31,1,1
+22,M,Ingeniería Industrial,7,19,75.9,Zoom,1.99,0,1
+35,F,Ingeniería Industrial,7,20,83.9,Google Classroom,2.59,1,1
+28,F,Derecho,7,10,69.2,Microsoft Teams,1.77,1,0
+23,M,Arquitectura,6,16,92.9,Microsoft Teams,2.5,0,1
+26,F,Contaduría Pública,7,28,39.7,Blackboard,2.21,1,1
+35,M,Ingeniería en Sistemas,4,7,80.1,Zoom,1.85,1,1
+23,F,Psicología,8,28,98.2,Canvas,3.12,0,1
+19,M,Arquitectura,8,16,100.0,Canvas,3.12,1,1
+29,F,Medicina,5,3,74.5,Canvas,1.5,0,1
+29,M,Medicina,5,8,58.1,Google Classroom,1.5,1,1
+34,M,Ingeniería Industrial,8,11,98.5,Zoom,2.74,1,1
+24,F,Ingeniería en Sistemas,4,13,77.2,Zoom,2.31,1,1
+25,M,Administración de Empresas,6,17,75.6,Canvas,2.57,1,1
+23,F,Enfermería,6,3,64.6,Canvas,2.03,0,1
+17,M,Arquitectura,4,19,59.3,Blackboard,2.54,1,1
+19,F,Arquitectura,6,10,86.5,Moodle,1.83,1,1
+29,M,Mercadotecnia,7,27,88.0,Moodle,2.48,0,1
+33,F,Contaduría Pública,8,16,81.0,Microsoft Teams,2.43,1,1
+17,F,Comunicación Social,8,24,66.5,Microsoft Teams,1.99,0,1
+22,M,Contaduría Pública,4,25,62.0,Zoom,1.77,1,1
+22,M,Enfermería,6,25,56.5,Zoom,2.34,0,1
+28,M,Medicina,5,14,69.6,Google Classroom,2.18,1,1
+29,F,Medicina,5,13,62.9,Google Classroom,2.35,0,1
+29,M,Medicina,6,16,52.4,Moodle,1.99,0,1
+31,F,Mercadotecnia,5,22,87.8,Microsoft Teams,3.31,1,1
+32,M,Medicina,4,14,58.2,Moodle,1.89,1,1
+27,M,Enfermería,4,17,92.8,Moodle,2.27,0,1
+21,F,Turismo,6,19,83.9,Microsoft Teams,2.77,0,1
+20,F,Ingeniería en Sistemas,5,11,82.4,Google Classroom,2.54,1,1
+19,M,Comunicación Social,4,11,100.0,Blackboard,2.61,1,1
+35,M,Enfermería,4,16,58.7,Blackboard,2.32,0,1
+34,M,Ingeniería Industrial,7,17,91.1,Blackboard,2.54,1,1
+31,F,Turismo,7,21,73.5,Microsoft Teams,2.57,1,1
+25,F,Comunicación Social,4,22,100.0,Canvas,2.93,1,1
+33,F,Enfermería,6,10,72.3,Canvas,2.6,0,1
+30,F,Turismo,8,12,69.9,Canvas,2.18,0,1
+31,F,Medicina,8,11,84.4,Zoom,1.84,0,1
+17,F,Ingeniería en Sistemas,4,27,74.9,Google Classroom,3.25,1,1
+19,F,Arquitectura,4,17,66.6,Google Classroom,1.87,0,1
+32,M,Contaduría Pública,4,18,63.4,Zoom,2.07,1,1
+27,M,Psicología,6,18,99.9,Moodle,2.94,1,1
+28,M,Ingeniería en Sistemas,7,12,60.5,Blackboard,1.91,1,0
+26,M,Arquitectura,4,28,81.3,Canvas,3.02,1,0
+32,F,Administración de Empresas,4,20,93.8,Blackboard,2.42,0,1
+24,F,Enfermería,5,18,94.6,Canvas,2.84,1,1
+22,M,Administración de Empresas,6,10,69.0,Blackboard,2.15,0,1
+28,M,Arquitectura,4,9,74.9,Moodle,2.22,0,1
+24,F,Ingeniería en Sistemas,5,15,72.0,Blackboard,1.72,0,1
+20,F,Enfermería,8,13,55.0,Blackboard,1.5,1,1
+24,M,Ingeniería Industrial,4,10,86.1,Microsoft Teams,1.85,1,1
+34,F,Psicología,4,15,78.6,Blackboard,2.34,0,1
+21,M,Medicina,5,16,99.6,Microsoft Teams,2.24,1,1
+25,M,Enfermería,6,18,65.7,Google Classroom,1.78,1,0
+20,No binario,Ingeniería Industrial,4,14,94.3,Zoom,2.31,0,1
+33,F,Enfermería,8,10,95.4,Blackboard,1.81,1,1
+25,M,Ingeniería en Sistemas,4,11,78.7,Google Classroom,2.05,0,1
+17,F,Ingeniería Industrial,8,26,45.4,Microsoft Teams,1.5,0,1
+29,F,Ingeniería en Sistemas,7,9,70.3,Blackboard,1.95,1,1
+32,F,Turismo,7,20,100.0,Blackboard,2.77,1,1
+29,F,Arquitectura,8,21,82.5,Moodle,2.4,1,1
+30,F,Derecho,6,17,88.4,Google Classroom,2.39,1,1
+19,F,Enfermería,4,30,76.7,Canvas,2.85,0,1
+22,F,Contaduría Pública,4,21,74.6,Canvas,2.6,1,1
+34,M,Enfermería,7,30,50.0,Moodle,2.73,1,0
+35,M,Arquitectura,8,13,89.9,Microsoft Teams,2.68,1,1
+21,M,Comunicación Social,4,13,94.2,Canvas,3.13,1,1
+31,F,Administración de Empresas,4,21,63.7,Canvas,2.41,1,1
+18,M,Turismo,6,16,75.3,Zoom,2.26,1,1
+26,F,Medicina,5,29,73.3,Google Classroom,2.62,0,1
+34,F,Ingeniería Industrial,7,20,84.3,Microsoft Teams,2.45,1,1
+29,M,Derecho,7,10,69.8,Blackboard,2.0,1,1
+21,F,Psicología,5,5,92.0,Google Classroom,1.76,1,1
+17,M,Psicología,4,17,79.1,Microsoft Teams,2.41,0,1
+17,F,Psicología,6,17,39.8,Canvas,1.55,1,1
+34,M,Ingeniería en Sistemas,6,20,84.6,Zoom,2.36,0,1
+31,F,Psicología,7,26,92.9,Google Classroom,2.7,1,1
+33,F,Medicina,6,25,60.7,Canvas,3.08,0,1
+27,F,Turismo,5,13,84.1,Microsoft Teams,1.84,0,1
+33,F,Administración de Empresas,4,8,100.0,Google Classroom,2.34,1,0
+29,F,Psicología,5,9,79.7,Blackboard,2.36,1,0
+17,F,Enfermería,8,12,95.1,Google Classroom,2.59,0,1
+18,F,Enfermería,7,15,71.4,Canvas,1.95,0,1
+25,F,Ingeniería en Sistemas,6,20,77.7,Google Classroom,2.09,1,1
+19,M,Medicina,8,12,74.9,Blackboard,2.07,0,0
+17,F,Administración de Empresas,6,19,72.2,Zoom,1.5,1,1
+32,F,Derecho,4,20,75.8,Zoom,2.46,1,1
+22,F,Arquitectura,4,19,53.5,Canvas,1.92,0,1
+33,M,Administración de Empresas,4,10,73.0,Microsoft Teams,2.23,1,1
+21,F,Arquitectura,6,21,98.1,Canvas,2.55,1,1
+21,M,Comunicación Social,8,32,63.5,Zoom,2.6,0,1
+22,F,Arquitectura,4,19,62.0,Moodle,2.22,1,1
+19,M,Turismo,8,3,78.9,Moodle,1.77,0,1
+21,F,Contaduría Pública,6,26,79.7,Google Classroom,2.35,1,1
+21,No binario,Turismo,8,13,83.7,Blackboard,2.06,1,1
+26,M,Enfermería,6,33,76.3,Google Classroom,3.41,1,1
+26,No binario,Medicina,6,18,79.1,Moodle,2.46,1,0
+35,M,Mercadotecnia,7,6,72.7,Zoom,1.5,0,1
+33,F,Ingeniería en Sistemas,6,3,58.9,Google Classroom,1.58,0,1
+30,F,Contaduría Pública,6,28,76.9,Canvas,2.3,1,1
+25,F,Arquitectura,5,25,88.9,Blackboard,2.8,0,1
+30,F,Psicología,4,33,85.7,Canvas,3.35,1,1
+17,F,Medicina,7,18,51.8,Blackboard,2.2,0,1
+35,M,Contaduría Pública,7,17,81.8,Zoom,1.69,0,1
+29,M,Ingeniería en Sistemas,7,15,64.6,Google Classroom,2.17,1,0
+29,F,Enfermería,5,13,98.9,Blackboard,2.81,1,0
+20,F,Medicina,6,15,82.9,Canvas,2.16,0,0
+17,F,Ingeniería en Sistemas,4,19,91.4,Google Classroom,2.7,0,1
+33,F,Comunicación Social,8,12,78.3,Google Classroom,1.5,1,1
+24,M,Comunicación Social,6,6,77.0,Canvas,1.5,0,1
+18,F,Turismo,5,19,100.0,Moodle,3.18,0,1
+24,M,Turismo,6,11,92.6,Blackboard,2.18,1,1
+23,F,Ingeniería en Sistemas,6,3,79.8,Canvas,1.63,1,1
+18,M,Contaduría Pública,5,21,75.0,Zoom,2.5,0,1
+19,M,Turismo,7,10,52.4,Microsoft Teams,1.5,1,1
+34,M,Medicina,7,22,82.9,Canvas,2.5,0,1
+28,M,Contaduría Pública,4,22,76.1,Google Classroom,2.62,1,1
+17,F,Turismo,4,19,86.3,Google Classroom,2.12,0,1
+28,M,Derecho,7,35,90.9,Canvas,3.72,1,1
+21,M,Arquitectura,8,17,96.5,Microsoft Teams,2.62,0,1
+33,M,Derecho,6,16,83.1,Canvas,2.07,1,1
+32,M,Ingeniería Industrial,8,22,62.3,Microsoft Teams,1.88,0,0
+31,M,Comunicación Social,6,17,45.8,Microsoft Teams,1.68,1,1
+31,M,Enfermería,7,26,65.6,Zoom,2.38,0,0
+21,F,Administración de Empresas,4,9,98.0,Blackboard,1.9,0,1
+30,F,Arquitectura,4,9,100.0,Google Classroom,2.22,1,1
+18,F,Comunicación Social,8,23,74.4,Google Classroom,2.27,0,1
+27,F,Contaduría Pública,4,9,56.1,Microsoft Teams,1.9,1,1
+35,M,Contaduría Pública,7,22,68.3,Google Classroom,2.38,1,1
+23,F,Contaduría Pública,8,20,95.1,Moodle,3.26,1,1
+22,F,Enfermería,6,13,69.1,Microsoft Teams,1.75,0,1
+18,F,Derecho,4,20,86.8,Google Classroom,2.54,0,1
+22,M,Administración de Empresas,5,9,80.5,Moodle,2.13,0,1
+34,M,Turismo,4,11,88.7,Zoom,2.44,1,1
+18,M,Contaduría Pública,6,16,100.0,Google Classroom,2.93,0,1
+34,M,Mercadotecnia,8,18,86.8,Moodle,2.27,1,1
+31,F,Ingeniería Industrial,6,15,80.2,Canvas,2.01,0,1
+35,F,Arquitectura,5,21,100.0,Blackboard,2.83,1,1
+18,F,Medicina,7,20,83.2,Canvas,3.0,0,1
+22,F,Turismo,4,28,66.1,Moodle,2.27,0,1
+17,F,Mercadotecnia,8,17,88.3,Microsoft Teams,2.36,0,1
+31,F,Administración de Empresas,7,26,84.7,Microsoft Teams,3.07,0,1
+26,F,Enfermería,6,24,73.4,Google Classroom,2.74,1,1
+35,M,Administración de Empresas,8,34,70.2,Canvas,3.08,1,1
+33,M,Medicina,7,17,73.5,Microsoft Teams,2.25,1,1
+21,M,Arquitectura,8,15,70.0,Microsoft Teams,1.75,0,1
+20,F,Medicina,5,26,74.0,Canvas,2.43,0,1
+26,F,Ingeniería en Sistemas,5,20,65.4,Zoom,2.53,0,1
+33,M,Arquitectura,4,26,83.8,Microsoft Teams,3.06,1,1
+26,F,Administración de Empresas,4,23,82.7,Blackboard,2.28,1,1
+33,M,Contaduría Pública,5,3,83.2,Moodle,2.06,1,1
+21,F,Administración de Empresas,8,20,77.1,Google Classroom,2.82,0,1
+18,M,Administración de Empresas,5,20,75.3,Microsoft Teams,2.41,1,1
+22,M,Arquitectura,4,18,99.6,Blackboard,2.92,1,0
+18,F,Ingeniería Industrial,5,17,79.0,Blackboard,2.64,0,1
+29,M,Ingeniería en Sistemas,5,6,97.0,Microsoft Teams,2.0,1,1
+27,M,Turismo,8,24,63.1,Zoom,3.03,1,1
+27,M,Administración de Empresas,7,20,86.8,Moodle,2.99,1,1
+32,F,Mercadotecnia,4,25,67.0,Google Classroom,2.61,0,1
+27,F,Comunicación Social,8,7,69.7,Microsoft Teams,1.69,1,1
+35,M,Psicología,5,21,71.8,Google Classroom,2.52,0,1
+31,F,Psicología,5,16,70.9,Canvas,1.66,1,1
+32,F,Administración de Empresas,7,19,71.0,Blackboard,2.89,0,1
+27,M,Mercadotecnia,4,16,96.3,Blackboard,2.98,1,1
+32,M,Ingeniería Industrial,4,21,78.7,Microsoft Teams,2.95,1,0
+24,M,Contaduría Pública,6,16,81.4,Microsoft Teams,2.35,0,1
+20,M,Enfermería,4,10,71.1,Canvas,1.76,0,1
+24,F,Enfermería,7,18,90.9,Zoom,2.42,1,1
+20,M,Arquitectura,6,16,83.3,Microsoft Teams,2.62,0,1
+19,F,Psicología,6,17,73.4,Blackboard,2.07,0,0
+19,F,Administración de Empresas,5,3,54.2,Google Classroom,1.5,0,1
+34,M,Enfermería,5,22,81.2,Moodle,2.77,0,1
+35,F,Administración de Empresas,4,15,86.6,Google Classroom,2.2,1,1
+35,M,Arquitectura,6,8,63.3,Zoom,1.93,0,1
+21,F,Psicología,5,24,73.6,Moodle,2.53,1,1
+34,F,Medicina,7,22,86.1,Google Classroom,2.25,1,0
+26,F,Ingeniería Industrial,5,15,54.4,Google Classroom,1.55,0,0
+22,F,Comunicación Social,5,9,68.3,Canvas,2.16,0,1
+17,M,Comunicación Social,6,19,83.7,Zoom,2.24,0,1
+21,F,Enfermería,6,18,94.6,Blackboard,2.96,1,1
+25,F,Comunicación Social,8,24,100.0,Canvas,3.1,1,1
+28,F,Ingeniería Industrial,7,14,100.0,Moodle,2.57,0,1
+30,F,Medicina,6,26,80.2,Blackboard,3.51,1,1
+18,F,Ingeniería Industrial,4,14,70.7,Canvas,1.65,0,1
+33,M,Administración de Empresas,7,8,91.8,Zoom,1.97,1,1
+30,M,Arquitectura,7,10,69.8,Microsoft Teams,1.83,1,0
+29,F,Turismo,6,17,66.6,Microsoft Teams,2.81,1,1
+25,M,Medicina,7,17,73.4,Moodle,2.22,1,1
+31,F,Turismo,6,20,71.5,Microsoft Teams,2.4,1,1
+31,F,Arquitectura,5,17,84.2,Canvas,2.34,1,1
+27,M,Arquitectura,8,24,69.0,Moodle,2.55,0,1
+32,M,Psicología,5,16,79.3,Blackboard,2.21,1,1
+33,F,Turismo,6,4,100.0,Zoom,2.39,0,1
+20,M,Administración de Empresas,6,17,79.8,Moodle,2.58,0,1
+17,F,Mercadotecnia,5,3,100.0,Blackboard,2.06,0,1
+24,M,Comunicación Social,4,19,96.0,Moodle,2.43,0,1
+33,F,Turismo,4,25,86.9,Google Classroom,2.88,1,1
+19,M,Mercadotecnia,4,11,72.7,Google Classroom,2.36,1,1
+31,F,Psicología,6,27,93.6,Moodle,2.82,1,1
+31,F,Arquitectura,7,23,74.3,Microsoft Teams,2.61,1,1
+30,F,Enfermería,6,26,78.0,Google Classroom,2.35,0,1
+30,M,Ingeniería Industrial,7,19,83.0,Zoom,2.19,1,1
+18,F,Comunicación Social,5,11,77.9,Blackboard,2.44,0,0
+29,F,Comunicación Social,8,23,67.2,Canvas,2.57,1,1
+30,M,Administración de Empresas,7,13,55.1,Google Classroom,1.78,0,1
+35,M,Ingeniería en Sistemas,4,18,92.4,Moodle,1.95,1,1
+23,M,Derecho,6,16,86.6,Microsoft Teams,2.28,1,1
+19,F,Derecho,5,25,52.2,Canvas,2.34,0,0
+31,F,Derecho,4,23,66.8,Blackboard,1.92,0,1
+30,F,Ingeniería en Sistemas,5,17,80.7,Blackboard,2.26,1,1
+27,M,Administración de Empresas,8,4,84.6,Google Classroom,2.1,0,1
+31,M,Ingeniería en Sistemas,6,13,55.2,Blackboard,1.5,0,0
+29,F,Derecho,6,22,76.7,Blackboard,2.01,0,0
+34,F,Psicología,8,19,86.1,Microsoft Teams,2.12,1,0
+22,No binario,Medicina,6,7,72.7,Microsoft Teams,1.87,0,1
+19,M,Turismo,7,5,81.8,Microsoft Teams,1.69,0,1
+35,F,Arquitectura,5,19,70.7,Moodle,2.52,1,1
+31,M,Ingeniería en Sistemas,4,10,91.6,Blackboard,2.31,1,1
+21,M,Administración de Empresas,8,11,66.0,Blackboard,2.37,1,0
+26,F,Administración de Empresas,7,22,60.9,Blackboard,1.82,1,1
+23,F,Turismo,4,26,78.4,Zoom,2.82,0,0
+33,No binario,Mercadotecnia,4,12,56.5,Microsoft Teams,1.5,0,1
+23,M,Medicina,8,17,46.4,Canvas,1.86,1,1
+28,M,Enfermería,7,17,94.3,Google Classroom,2.68,1,1
+33,F,Comunicación Social,4,16,63.2,Canvas,1.68,0,1
+29,F,Derecho,4,18,58.0,Moodle,1.91,1,1
+20,M,Enfermería,7,23,65.8,Moodle,2.36,0,1
+26,M,Mercadotecnia,6,13,65.2,Blackboard,1.7,1,0
+19,M,Derecho,4,7,75.9,Canvas,2.05,0,1
+25,F,Medicina,5,29,61.6,Blackboard,2.21,1,1
+29,M,Ingeniería Industrial,7,25,85.5,Zoom,3.45,1,1
+34,M,Mercadotecnia,4,10,87.7,Moodle,2.48,1,1
+31,M,Derecho,8,18,58.9,Moodle,2.08,0,1
+20,M,Medicina,5,25,68.7,Canvas,3.34,0,1
+31,M,Contaduría Pública,4,23,70.2,Moodle,2.33,0,1
+18,F,Enfermería,5,21,75.5,Zoom,2.63,0,1
+31,M,Enfermería,5,16,94.2,Zoom,2.66,1,1
+24,F,Comunicación Social,6,30,95.1,Zoom,3.47,0,0
+24,M,Turismo,5,19,100.0,Google Classroom,3.29,1,1
+33,F,Medicina,6,14,44.0,Zoom,1.67,0,1
+28,F,Ingeniería en Sistemas,7,24,64.1,Zoom,2.66,0,1
+35,F,Contaduría Pública,6,18,100.0,Google Classroom,2.63,0,1
+26,F,Ingeniería Industrial,8,20,51.0,Blackboard,1.85,1,1
+25,M,Psicología,4,19,100.0,Microsoft Teams,3.34,1,1
+21,M,Derecho,7,21,80.2,Moodle,2.72,0,1
+22,F,Contaduría Pública,7,11,80.8,Zoom,2.18,0,1
+18,No binario,Medicina,8,7,58.8,Moodle,1.5,1,1
+29,F,Arquitectura,6,28,71.2,Canvas,2.96,1,1
+22,F,Derecho,4,19,100.0,Moodle,2.61,0,1
+21,F,Administración de Empresas,6,23,77.3,Blackboard,2.25,1,1
+17,F,Enfermería,5,5,71.3,Google Classroom,1.68,0,1
+22,M,Turismo,6,25,84.1,Moodle,2.07,1,1
+22,F,Medicina,7,14,75.1,Moodle,2.31,0,1
+32,F,Ingeniería Industrial,4,12,83.2,Moodle,2.31,0,1
+20,M,Administración de Empresas,6,17,65.3,Microsoft Teams,1.96,0,1
+27,F,Comunicación Social,4,11,76.8,Microsoft Teams,1.95,1,0
+25,M,Mercadotecnia,4,17,68.4,Canvas,2.09,1,1
+19,F,Psicología,5,17,50.9,Google Classroom,1.54,0,1
+35,M,Psicología,5,25,85.2,Moodle,2.87,0,1
+24,F,Administración de Empresas,7,28,59.5,Moodle,2.36,0,1
+21,F,Enfermería,8,28,75.5,Moodle,2.79,0,1
+20,M,Comunicación Social,4,3,91.9,Moodle,1.92,0,1
+22,F,Arquitectura,8,11,55.5,Microsoft Teams,1.5,0,1
+18,F,Enfermería,7,3,87.1,Blackboard,1.96,0,0
+27,F,Contaduría Pública,4,9,73.5,Blackboard,2.1,1,1
+20,M,Turismo,4,13,63.5,Canvas,1.69,0,1
+31,M,Psicología,8,20,100.0,Zoom,3.01,1,1
+22,M,Contaduría Pública,6,14,78.0,Google Classroom,2.34,1,1
+33,No binario,Ingeniería Industrial,5,14,69.5,Blackboard,1.63,1,1
+22,F,Derecho,6,19,66.3,Moodle,2.46,1,1
+35,F,Ingeniería en Sistemas,8,6,91.2,Blackboard,2.71,0,1
+18,F,Medicina,5,12,68.8,Canvas,1.88,1,1
+31,F,Comunicación Social,6,14,89.3,Zoom,2.36,1,1
+27,F,Enfermería,5,16,78.0,Blackboard,2.21,1,1
+24,M,Psicología,4,18,94.7,Canvas,2.88,1,0
+35,F,Contaduría Pública,6,28,62.4,Microsoft Teams,2.65,1,1
+29,M,Mercadotecnia,5,24,64.5,Zoom,1.88,0,1
+28,F,Turismo,5,12,73.8,Canvas,1.75,1,1
+21,F,Turismo,5,16,75.0,Blackboard,2.36,0,1
+22,F,Derecho,6,15,72.7,Microsoft Teams,2.08,0,1
+20,M,Medicina,7,14,100.0,Canvas,2.27,0,1
+35,M,Medicina,6,19,100.0,Canvas,3.29,1,1
+17,M,Turismo,8,4,82.5,Blackboard,1.59,1,1
+33,M,Turismo,6,24,84.3,Zoom,2.76,0,1
+28,M,Enfermería,5,29,74.5,Microsoft Teams,2.73,1,1
+31,F,Comunicación Social,4,16,62.3,Moodle,1.63,0,1
+17,F,Arquitectura,6,15,75.3,Google Classroom,2.23,0,1
+30,M,Ingeniería Industrial,6,19,89.6,Zoom,2.75,0,0
+22,M,Mercadotecnia,5,25,97.6,Microsoft Teams,2.92,0,1
+21,M,Ingeniería Industrial,4,15,92.9,Canvas,2.42,0,0
+27,F,Enfermería,4,24,55.4,Microsoft Teams,2.35,1,1
+20,F,Contaduría Pública,8,21,73.7,Google Classroom,1.81,0,1
+29,F,Ingeniería en Sistemas,6,34,56.0,Blackboard,2.38,1,1
+27,F,Turismo,4,15,95.5,Google Classroom,2.64,1,1
+19,No binario,Administración de Empresas,4,4,71.8,Moodle,1.5,0,1
+17,F,Arquitectura,7,7,77.3,Moodle,1.69,0,1
+22,M,Comunicación Social,7,18,85.2,Google Classroom,2.77,0,1
+34,F,Derecho,4,25,100.0,Zoom,2.92,0,0
+26,M,Arquitectura,8,13,82.0,Zoom,2.81,1,1
+21,F,Turismo,4,16,74.4,Canvas,1.67,0,1
+26,M,Psicología,5,22,59.4,Moodle,1.5,0,1
+28,F,Comunicación Social,6,11,99.9,Canvas,2.75,1,1
+18,F,Ingeniería en Sistemas,8,13,75.3,Moodle,1.79,0,1
+29,F,Psicología,5,9,100.0,Google Classroom,2.11,1,1
+24,F,Arquitectura,8,26,94.6,Zoom,3.34,0,1
+18,M,Administración de Empresas,5,28,71.1,Zoom,2.52,1,1
+17,M,Administración de Empresas,6,6,57.1,Google Classroom,1.68,0,1
+21,M,Ingeniería en Sistemas,6,17,82.1,Canvas,2.21,0,0
+25,M,Medicina,7,27,68.8,Canvas,2.68,1,1
+33,F,Mercadotecnia,5,20,78.6,Microsoft Teams,2.31,1,1
+25,M,Turismo,7,14,93.7,Moodle,2.22,1,1
+27,No binario,Derecho,5,7,53.2,Canvas,1.89,1,0
+31,F,Turismo,7,26,82.0,Google Classroom,3.13,0,1
+22,F,Medicina,6,20,89.4,Canvas,2.46,1,1
+19,M,Ingeniería Industrial,8,7,90.1,Zoom,2.06,1,0
+33,F,Ingeniería Industrial,7,26,57.5,Moodle,2.75,0,0
+21,F,Ingeniería Industrial,5,6,84.3,Blackboard,1.66,0,1
+28,F,Administración de Empresas,5,16,96.1,Microsoft Teams,2.35,1,1
+34,F,Administración de Empresas,6,16,83.1,Moodle,2.51,1,1
+30,F,Contaduría Pública,5,29,76.3,Zoom,3.5,1,1
+27,M,Psicología,4,16,95.1,Zoom,2.63,0,1
+25,F,Arquitectura,8,16,67.6,Zoom,2.38,1,1
+18,M,Derecho,7,8,55.1,Zoom,1.5,0,1
+28,M,Ingeniería en Sistemas,8,13,75.0,Google Classroom,2.19,1,1
+19,M,Arquitectura,6,12,86.0,Microsoft Teams,2.15,1,1
+19,M,Turismo,7,12,93.6,Blackboard,2.97,0,1
+17,M,Contaduría Pública,7,18,86.0,Zoom,3.0,0,1
+24,M,Administración de Empresas,4,3,90.5,Zoom,2.63,0,1
+24,F,Ingeniería en Sistemas,6,7,93.7,Canvas,1.98,1,1
+27,F,Administración de Empresas,5,17,72.9,Microsoft Teams,2.22,1,0
+25,F,Derecho,4,18,75.8,Moodle,2.43,1,1
+21,M,Psicología,4,16,97.3,Microsoft Teams,2.46,0,1
+30,M,Arquitectura,8,17,59.8,Microsoft Teams,1.99,1,1
+19,F,Arquitectura,8,15,84.4,Blackboard,2.63,1,1
+21,M,Ingeniería Industrial,8,17,67.2,Microsoft Teams,1.93,1,1
+21,M,Medicina,4,21,94.5,Blackboard,2.61,0,1
+35,F,Ingeniería Industrial,5,20,77.7,Zoom,2.21,0,1
+30,M,Ingeniería en Sistemas,7,13,78.1,Zoom,1.74,0,1
+20,F,Mercadotecnia,8,24,100.0,Google Classroom,3.32,1,1
+29,F,Ingeniería Industrial,5,19,61.9,Blackboard,1.87,0,1
+26,M,Contaduría Pública,6,26,81.2,Blackboard,2.54,1,1
+34,M,Ingeniería Industrial,8,28,75.3,Moodle,2.91,1,1
+24,F,Ingeniería Industrial,7,7,86.0,Canvas,2.03,0,1
+24,F,Mercadotecnia,6,11,100.0,Microsoft Teams,2.33,1,1
+23,M,Medicina,6,23,68.9,Moodle,2.64,1,1
+24,No binario,Derecho,7,6,60.0,Blackboard,1.5,1,1
+30,M,Contaduría Pública,8,27,65.9,Moodle,1.86,1,1
+35,F,Ingeniería Industrial,4,15,74.5,Google Classroom,2.56,1,1
+22,No binario,Psicología,7,22,79.0,Canvas,2.31,0,1
+17,M,Mercadotecnia,7,17,79.7,Blackboard,2.13,0,1
+31,M,Psicología,7,8,100.0,Blackboard,2.14,1,1
+17,M,Mercadotecnia,6,25,100.0,Microsoft Teams,3.13,0,0
+33,M,Psicología,5,37,97.5,Canvas,3.51,1,1
+17,M,Mercadotecnia,4,14,100.0,Google Classroom,2.92,1,1
+31,F,Turismo,8,15,90.4,Zoom,2.97,0,1
+18,M,Psicología,8,3,94.6,Moodle,1.82,1,1
+30,F,Medicina,5,27,90.1,Microsoft Teams,2.72,0,1
+24,No binario,Comunicación Social,7,24,87.6,Blackboard,2.66,1,0
+24,F,Contaduría Pública,4,5,83.9,Zoom,2.03,0,1
+35,F,Ingeniería en Sistemas,8,3,72.0,Google Classroom,1.54,0,1
+23,M,Derecho,8,4,59.3,Canvas,1.5,1,0
+35,F,Turismo,7,22,76.0,Moodle,2.11,1,1
+22,F,Enfermería,5,23,86.5,Microsoft Teams,2.09,0,1
+22,M,Administración de Empresas,4,11,79.1,Blackboard,1.77,1,1
+19,M,Ingeniería Industrial,5,21,62.0,Blackboard,2.55,1,1
+23,F,Ingeniería en Sistemas,5,19,75.5,Zoom,2.49,0,1
+35,M,Administración de Empresas,4,15,74.7,Zoom,2.1,1,1
+24,M,Contaduría Pública,4,24,77.1,Moodle,2.83,0,0
+26,M,Ingeniería en Sistemas,8,9,85.4,Canvas,1.72,1,1
+31,M,Psicología,8,26,88.6,Google Classroom,2.94,1,1
+31,F,Psicología,4,12,70.5,Canvas,1.5,0,1
+17,F,Enfermería,6,30,92.7,Canvas,3.29,0,1
+23,F,Administración de Empresas,8,10,95.0,Canvas,2.42,1,1
+20,M,Derecho,6,15,82.8,Moodle,2.41,0,1
+22,M,Contaduría Pública,4,18,88.0,Moodle,2.91,1,1
+17,F,Psicología,8,18,92.8,Google Classroom,2.89,0,1
+21,M,Ingeniería Industrial,5,21,61.5,Canvas,1.8,1,1
+17,M,Comunicación Social,4,9,93.8,Moodle,2.63,0,1
+20,F,Medicina,7,17,66.1,Google Classroom,2.01,0,1
+18,M,Medicina,6,18,67.6,Blackboard,1.56,0,1
+26,F,Mercadotecnia,4,14,80.9,Google Classroom,2.21,0,1
+21,M,Derecho,4,20,45.8,Canvas,2.0,0,1
+26,M,Medicina,8,8,80.6,Microsoft Teams,1.66,0,1
+17,M,Mercadotecnia,8,15,92.7,Canvas,2.92,0,1
+22,No binario,Administración de Empresas,8,12,53.3,Microsoft Teams,1.5,0,1
+29,F,Psicología,7,15,94.3,Google Classroom,2.41,1,1
+31,F,Turismo,8,28,67.5,Blackboard,2.4,1,1
+20,F,Psicología,4,28,81.1,Blackboard,2.35,0,1
+29,M,Turismo,8,26,69.7,Moodle,2.25,1,1
+31,F,Ingeniería Industrial,5,14,86.6,Blackboard,2.14,1,1
+24,F,Comunicación Social,8,24,93.4,Zoom,2.9,0,0
+21,F,Ingeniería en Sistemas,7,18,87.7,Google Classroom,1.65,1,1
+31,M,Medicina,5,18,77.9,Moodle,2.57,1,0
+20,F,Administración de Empresas,4,17,70.9,Blackboard,2.39,0,1
+28,M,Turismo,4,30,77.0,Google Classroom,3.23,1,1
+29,M,Arquitectura,6,27,87.8,Canvas,2.51,0,1
+18,F,Medicina,5,23,88.4,Blackboard,2.7,0,1
+35,F,Derecho,6,16,86.3,Microsoft Teams,2.72,1,1
+35,M,Ingeniería Industrial,5,18,58.8,Google Classroom,2.28,1,1
+20,M,Ingeniería en Sistemas,5,21,77.7,Moodle,2.93,0,1
+20,F,Medicina,7,14,68.5,Canvas,2.02,0,1
+27,F,Administración de Empresas,6,24,88.0,Zoom,2.81,1,1
+21,F,Medicina,7,11,66.5,Canvas,1.5,1,1
+27,F,Turismo,5,20,84.8,Blackboard,2.9,1,1
+26,F,Derecho,4,3,73.8,Microsoft Teams,1.5,1,1
+24,M,Arquitectura,5,14,49.8,Canvas,1.63,0,1
+22,F,Contaduría Pública,7,32,92.0,Zoom,3.25,0,1
+22,M,Enfermería,6,25,77.6,Moodle,1.94,1,1
+24,M,Arquitectura,6,28,97.1,Google Classroom,2.94,1,1
+31,F,Mercadotecnia,7,13,53.0,Microsoft Teams,1.77,1,1
+30,M,Medicina,6,18,73.6,Zoom,2.26,1,1
+27,F,Psicología,8,26,74.8,Blackboard,2.79,1,1
+28,F,Comunicación Social,4,22,82.1,Blackboard,2.85,1,0
+29,F,Psicología,4,21,58.1,Blackboard,1.85,1,1
+24,F,Arquitectura,4,29,86.2,Microsoft Teams,2.86,1,1
+34,F,Turismo,6,10,100.0,Canvas,2.4,0,0
+17,F,Psicología,6,16,85.1,Microsoft Teams,2.65,0,0
+31,F,Administración de Empresas,5,5,79.4,Blackboard,1.74,1,1
+24,M,Psicología,5,10,57.3,Zoom,1.5,1,1
+27,F,Ingeniería en Sistemas,4,25,66.4,Google Classroom,2.38,1,1
+28,M,Contaduría Pública,8,11,77.2,Google Classroom,2.25,1,1
+28,F,Medicina,5,23,70.1,Microsoft Teams,2.83,1,1
+20,F,Ingeniería Industrial,5,29,93.4,Blackboard,3.24,1,1
+32,F,Psicología,6,16,86.0,Moodle,1.99,0,0
+20,M,Derecho,8,21,100.0,Microsoft Teams,2.81,1,1
+21,M,Ingeniería Industrial,4,23,63.3,Blackboard,2.43,0,1
+21,F,Contaduría Pública,5,9,78.5,Canvas,2.23,0,1
+24,M,Turismo,8,13,57.2,Google Classroom,1.87,0,1
+26,M,Contaduría Pública,8,10,44.7,Google Classroom,1.5,1,1
+33,M,Psicología,4,14,88.8,Google Classroom,2.66,0,1
+25,F,Contaduría Pública,8,23,85.4,Moodle,2.54,0,1
+35,F,Ingeniería Industrial,8,13,65.2,Blackboard,1.94,1,1
+30,M,Comunicación Social,8,17,79.4,Blackboard,2.57,1,1
+24,M,Turismo,5,10,68.6,Blackboard,1.99,1,1
+25,M,Psicología,4,26,70.6,Blackboard,2.75,0,1
+27,F,Administración de Empresas,8,14,73.2,Moodle,2.26,0,1
+17,F,Arquitectura,8,28,64.6,Zoom,2.22,0,1
+30,M,Ingeniería en Sistemas,5,18,67.3,Microsoft Teams,2.15,0,1
+21,M,Enfermería,4,8,67.7,Microsoft Teams,1.5,1,1
+30,M,Mercadotecnia,6,16,84.3,Blackboard,2.31,1,1
+20,F,Turismo,5,10,36.4,Canvas,1.5,0,1
+17,F,Contaduría Pública,4,22,74.6,Google Classroom,2.57,0,1
+35,M,Administración de Empresas,8,16,61.7,Moodle,1.5,1,1
+24,M,Medicina,4,19,62.2,Canvas,2.27,0,1
+31,M,Medicina,4,15,70.1,Canvas,2.07,0,1
+31,F,Mercadotecnia,4,14,77.8,Blackboard,2.75,0,1
+25,M,Turismo,6,11,74.8,Moodle,1.92,0,1
+25,F,Turismo,4,23,62.0,Microsoft Teams,2.2,0,0
+26,F,Ingeniería en Sistemas,6,16,88.8,Google Classroom,2.69,1,1
+25,M,Contaduría Pública,8,15,64.5,Microsoft Teams,1.91,0,1
+19,M,Comunicación Social,6,16,67.0,Canvas,2.13,1,1
+27,M,Mercadotecnia,8,13,82.3,Google Classroom,2.52,0,0
+22,F,Ingeniería en Sistemas,8,15,82.8,Zoom,2.24,1,1
+18,F,Contaduría Pública,6,19,68.8,Canvas,2.58,0,1
+23,F,Ingeniería Industrial,5,10,34.0,Microsoft Teams,1.5,1,0
+34,F,Administración de Empresas,7,11,64.7,Microsoft Teams,2.26,1,0
+18,M,Arquitectura,4,27,80.4,Blackboard,2.27,0,1
+33,F,Comunicación Social,7,15,88.3,Microsoft Teams,2.84,0,1
+27,F,Ingeniería Industrial,4,14,76.8,Moodle,1.6,0,1
+28,M,Ingeniería Industrial,4,8,70.8,Canvas,2.37,1,1
+35,No binario,Enfermería,8,23,100.0,Google Classroom,3.07,0,1
+23,F,Medicina,4,10,72.4,Microsoft Teams,1.61,0,1
+22,F,Derecho,4,17,87.2,Blackboard,3.06,0,1
+17,F,Administración de Empresas,6,6,58.0,Blackboard,1.5,1,1
+33,F,Medicina,7,23,61.6,Microsoft Teams,2.19,0,1
+27,F,Psicología,6,26,87.7,Moodle,3.69,1,0
+34,M,Ingeniería Industrial,4,21,93.7,Blackboard,2.93,0,1
+33,M,Derecho,8,7,72.2,Google Classroom,1.5,0,1
+23,F,Turismo,6,23,50.3,Canvas,1.95,0,1
+33,M,Medicina,6,12,75.5,Zoom,1.93,0,0
+25,M,Ingeniería en Sistemas,5,9,80.8,Moodle,2.07,1,1
+33,M,Comunicación Social,4,15,79.5,Blackboard,2.24,1,1
+24,M,Medicina,8,15,69.5,Canvas,2.22,1,1
+33,F,Enfermería,6,14,75.7,Zoom,1.68,1,1
+23,F,Arquitectura,6,26,66.8,Microsoft Teams,2.33,0,0
+17,M,Ingeniería en Sistemas,8,32,61.3,Microsoft Teams,2.74,0,1
+29,M,Administración de Empresas,4,8,89.3,Google Classroom,1.91,0,1
+35,M,Administración de Empresas,5,13,79.5,Zoom,2.5,1,1
+35,F,Administración de Empresas,6,18,75.7,Microsoft Teams,2.09,1,1
+33,F,Administración de Empresas,5,15,70.4,Microsoft Teams,2.12,1,1
+29,M,Arquitectura,7,20,75.3,Blackboard,2.36,1,1
+32,F,Medicina,4,24,80.4,Google Classroom,2.37,1,1
+24,F,Contaduría Pública,7,23,100.0,Canvas,3.04,0,1
+35,F,Medicina,7,22,87.8,Microsoft Teams,2.34,1,1
+34,F,Ingeniería Industrial,7,29,68.0,Moodle,2.52,0,1
+17,M,Psicología,4,6,68.2,Moodle,1.64,1,1
+30,F,Comunicación Social,4,28,65.8,Canvas,2.13,0,1
+35,F,Derecho,8,15,75.0,Zoom,2.35,0,1
+31,F,Contaduría Pública,5,23,65.8,Google Classroom,2.42,0,1
+34,F,Contaduría Pública,5,10,85.1,Blackboard,2.31,0,0
+18,F,Ingeniería Industrial,8,11,38.3,Moodle,1.5,0,1
+33,F,Medicina,8,22,86.0,Moodle,2.35,0,1
+34,M,Contaduría Pública,7,4,82.1,Canvas,1.82,0,0
+22,F,Mercadotecnia,8,24,96.9,Zoom,3.19,1,0
+35,No binario,Mercadotecnia,6,26,91.2,Zoom,2.62,1,1
+20,F,Psicología,5,19,67.7,Canvas,1.87,1,1
+17,M,Turismo,8,18,89.5,Moodle,2.52,0,1
+24,M,Derecho,6,12,75.5,Google Classroom,1.93,0,1
+23,M,Enfermería,6,22,49.0,Moodle,1.95,0,1
+19,F,Arquitectura,6,20,80.4,Zoom,2.41,0,1
+26,F,Medicina,6,11,68.6,Blackboard,1.91,1,1
