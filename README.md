@@ -23,12 +23,46 @@ A través del uso de Python en Google Colab, se busca transformar datos en infor
 
 Se utilizará un dataset simulado (mock data) que representa información de estudiantes universitarios.
 
+### 📋 Variables incluidas:
+
+- Edad  
+- Género  
+- Carrera  
+- Materias inscritas  
+- Horas de estudio por semana  
+- Asistencia (%)  
+- Uso de plataformas virtuales  
+- Promedio (GPA)  
+- Trabajo (Sí/No)  
+- Acceso a internet (Sí/No)  
+
 ---
 
 ## ⚙️ Tecnologías y Herramientas
 
 - Python  
 - Google Colab  
+- Librerías:
+  - pandas  
+  - matplotlib  
+  - seaborn  
+  - sklearn  
+  - mlxtend  
+
+---
+
+## 🔍 Metodología
+
+El proyecto se desarrolla en las siguientes etapas:
+
+### 1. Carga y exploración de datos
+- Lectura del dataset  
+- Identificación de variables  
+- Análisis inicial  
+
+### 2. Limpieza de datos
+- Manejo de valores nulos  
+- Corrección de inconsistencias
 
 ---
 
