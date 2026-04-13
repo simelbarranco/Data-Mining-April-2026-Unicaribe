@@ -95,11 +95,19 @@ El proyecto se desarrolla en las siguientes etapas:
 
 ---
 
-## 💡 Posibles Insights
+## 💡 Insights Generados
 
 - Baja asistencia está relacionada con bajo rendimiento  
 - Pocas horas de estudio aumentan el riesgo académico  
 - Estudiantes que trabajan pueden presentar mayor dificultad
+
+| Arbol de Decisión             |  Distribución de Rendimiento |
+:-------------------------:|:-------------------------:
+![](assets/arbol_decision.png)  |  ![](assets/distribucion_rendimiento.png)
+
+| Relación Horas de Estudio vs GPA            |  Reglas de Asociación |
+:-------------------------:|:-------------------------:
+![](assets/horas_estudio_vs_gpa.png)  |  ![](assets/reglas_asociacion.png)
 
 ---
 
